@@ -1,4 +1,4 @@
-[gd_scene load_steps=15 format=3 uid="uid://cip7sbtxift3"]
+[gd_scene load_steps=16 format=3 uid="uid://cip7sbtxift3"]
 
 [ext_resource type="Texture2D" uid="uid://yuc0slw8x66k" path="res://art/terreno/Texture/TX Plant.png" id="1_4sjdo"]
 [ext_resource type="Texture2D" uid="uid://60w081lgb2ov" path="res://art/terreno/Texture/TX Props.png" id="2_vqxy1"]
@@ -7,6 +7,7 @@
 [ext_resource type="Texture2D" uid="uid://lerd17j5gbk3" path="res://art/terreno/Texture/TX Struct.png" id="5_lcwmv"]
 [ext_resource type="Texture2D" uid="uid://cq3564kyt1krn" path="res://art/terreno/Texture/TX Tileset Grass.png" id="6_vlsig"]
 [ext_resource type="PackedScene" uid="uid://wykasb3jbb4" path="res://cenas/player.tscn" id="7_hohuf"]
+[ext_resource type="AudioStream" uid="uid://bt6ufsnf3ene6" path="res://musicas/floresta 01/one-more-spring-187902.mp3" id="8_0uhh2"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_hhxix"]
 texture = ExtResource("1_4sjdo")
@@ -1504,7 +1505,7 @@ sources/4 = SubResource("TileSetAtlasSource_d5iyu")
 sources/5 = SubResource("TileSetAtlasSource_u37i2")
 sources/6 = SubResource("TileSetAtlasSource_thx48")
 
-[node name="MUNDO" type="Node2D"]
+[node name="floresta" type="Node2D"]
 
 [node name="TileMap" type="TileMap" parent="."]
 tile_set = SubResource("TileSet_da7j4")
@@ -1530,3 +1531,7 @@ metadata/_edit_lock_ = true
 [node name="PLAYER" parent="." instance=ExtResource("7_hohuf")]
 position = Vector2(108, 117)
 scale = Vector2(1.5, 1.5)
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("8_0uhh2")
+autoplay = true

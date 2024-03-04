@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bt6ufsnf3ene6"
+path="res://.godot/imported/one-more-spring-187902.mp3-08fbad0545215084cc347bfb1411c299.mp3str"
+
+[deps]
+
+source_file="res://musicas/floresta 01/one-more-spring-187902.mp3"
+dest_files=["res://.godot/imported/one-more-spring-187902.mp3-08fbad0545215084cc347bfb1411c299.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
