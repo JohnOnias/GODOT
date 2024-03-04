@@ -1,0 +1,60 @@
+[gd_scene load_steps=3 format=3 uid="uid://dou1mygiv1uqw"]
+
+[ext_resource type="Script" path="res://cenas/control.gd" id="1_18iby"]
+[ext_resource type="Texture2D" uid="uid://b437fh2dp3mn4" path="res://out-0.png" id="1_sw0k4"]
+
+[node name="MENU" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_18iby")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -188.0
+offset_right = 7.0
+offset_bottom = 188.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_sw0k4")
+metadata/_edit_lock_ = true
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_left = 11.0
+offset_top = -114.0
+offset_right = 90.0
+offset_bottom = -13.0
+grow_vertical = 0
+
+[node name="startBNT" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+focus_next = NodePath("../quitBNT")
+text = "START"
+
+[node name="optionBNT" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+text = "OPTIONS"
+
+[node name="quitBNT" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+focus_next = NodePath("../startBNT")
+text = "QUIT"
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[connection signal="pressed" from="VBoxContainer/startBNT" to="." method="_on_start_bnt_pressed"]
+[connection signal="pressed" from="VBoxContainer/optionBNT" to="." method="_on_option_bnt_pressed"]
+[connection signal="pressed" from="VBoxContainer/quitBNT" to="." method="_on_quit_bnt_pressed"]
