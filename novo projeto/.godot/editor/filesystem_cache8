@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1709586971
+::res://::1709588908
 out-0.png::CompressedTexture2D::4481652008578401655::1709502758::1709502822::1::::<><>::
 ::res://art/::1709494508
 icon.svg::CompressedTexture2D::5358402640205514174::1709493444::1709493540::1::::<><>::
@@ -143,5 +143,8 @@ control.gd::GDScript::-1::1709503914::0::1::::<>Control<>::
 control.tscn::PackedScene::8184794758653560870::1709573710::0::1::::<><>::res://cenas/control.gd<>uid://b437fh2dp3mn4::::res://out-0.png
 mundo.tscn::PackedScene::157861557464433286::1709573712::0::1::::<><>::uid://yuc0slw8x66k::::res://art/terreno/Texture/TX Plant.png<>uid://60w081lgb2ov::::res://art/terreno/Texture/TX Props.png<>uid://duwgq6e2dvhm7::::res://art/terreno/Texture/TX Shadow Plant.png<>uid://wyjmoakjp33m::::res://art/terreno/Texture/TX Shadow.png<>uid://lerd17j5gbk3::::res://art/terreno/Texture/TX Struct.png<>uid://cq3564kyt1krn::::res://art/terreno/Texture/TX Tileset Grass.png<>uid://wykasb3jbb4::::res://cenas/player.tscn
 player.tscn::PackedScene::46891404244446443::1709500458::0::1::::<><>::res://scripts/player.gd<>uid://d2o3e2svc4es4
+::res://musicas/::1709588914
+::res://musicas/titulo/::1709588917
+reflected-light-147979.mp3::AudioStreamMP3::483177186280497548::1709588878::1709589241::1::::<><>::
 ::res://scripts/::1709499245
 player.gd::GDScript::-1::1709499246::0::1::::<>CharacterBody2D<>::
