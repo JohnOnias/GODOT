@@ -39,16 +39,24 @@ grow_vertical = 0
 
 [node name="startBNT" type="Button" parent="VBoxContainer"]
 layout_mode = 2
-focus_next = NodePath("../quitBNT")
+focus_neighbor_top = NodePath("../quitBNT")
+focus_next = NodePath("../optionBNT")
+focus_previous = NodePath("../quitBNT")
+mouse_force_pass_scroll_events = false
 text = "START"
 
 [node name="optionBNT" type="Button" parent="VBoxContainer"]
 layout_mode = 2
+focus_next = NodePath("../quitBNT")
+focus_previous = NodePath("../startBNT")
 text = "OPTIONS"
 
 [node name="quitBNT" type="Button" parent="VBoxContainer"]
 layout_mode = 2
+focus_neighbor_top = NodePath("../optionBNT")
+focus_neighbor_bottom = NodePath("../startBNT")
 focus_next = NodePath("../startBNT")
+focus_previous = NodePath("../optionBNT")
 text = "QUIT"
 
 [node name="RichTextLabel" type="RichTextLabel" parent="."]

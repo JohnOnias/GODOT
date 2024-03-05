@@ -1,3 +1,4 @@
-res://cenas/control.tscn
 res://cenas/mundo.tscn
+res://cenas/control.tscn
 res://cenas/player.tscn
+res://cenas/control.gd
