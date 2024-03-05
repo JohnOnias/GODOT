@@ -11,9 +11,14 @@ config_version=5
 [application]
 
 config/name="Novo Projeto"
-run/main_scene="res://cenas/player.tscn"
+run/main_scene="res://cenas/control.tscn"
 config/features=PackedStringArray("4.1", "GL Compatibility")
 config/icon="res://art/icon.svg"
+
+[autoload]
+
+Global="*res://scripts/global.gd"
+Musica="*res://cenas/musica.tscn"
 
 [rendering]
 

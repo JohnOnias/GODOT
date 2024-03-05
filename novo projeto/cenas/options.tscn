@@ -1,0 +1,87 @@
+[gd_scene load_steps=4 format=3 uid="uid://egcfu57sfbq0"]
+
+[ext_resource type="Script" path="res://scripts/options.gd" id="1_8uqvq"]
+[ext_resource type="Texture2D" uid="uid://b437fh2dp3mn4" path="res://out-0.png" id="2_alwm2"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_k64ok"]
+font_size = 23
+font_color = Color(1, 1, 0.0980392, 1)
+
+[node name="MENU" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_8uqvq")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -188.0
+offset_right = 7.0
+offset_bottom = 188.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_alwm2")
+metadata/_edit_lock_ = true
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="HSlider" type="HSlider" parent="."]
+layout_mode = 2
+offset_left = 120.0
+offset_top = 36.0
+offset_right = 1015.0
+offset_bottom = 52.0
+
+[node name="Volume" type="Label" parent="."]
+offset_left = 960.0
+offset_top = 50.0
+offset_right = 1019.0
+offset_bottom = 76.0
+text = "Volume"
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_left = 49.0
+offset_top = 30.0
+offset_right = 108.0
+offset_bottom = 56.0
+text = "Volume"
+
+[node name="Voltar" type="Button" parent="."]
+offset_left = 512.0
+offset_top = 552.0
+offset_right = 642.0
+offset_bottom = 613.0
+focus_neighbor_top = NodePath("../quitBNT")
+focus_next = NodePath("../optionBNT")
+focus_previous = NodePath("../quitBNT")
+mouse_force_pass_scroll_events = false
+text = "Voltar"
+
+[node name="Label2" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 0.657
+anchor_bottom = 0.805
+offset_left = 59.0
+offset_top = 120.0
+offset_right = -76.864
+offset_bottom = -124.64
+text = "Controles:
+
+W - Andar para cima
+A - Andar para esquerda
+S - Andar para baixo
+D - Andar para a direita"
+label_settings = SubResource("LabelSettings_k64ok")
+
+[connection signal="pressed" from="Voltar" to="." method="_on_voltar_pressed"]

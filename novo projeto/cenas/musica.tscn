@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://cxurjcwgo4esf"]
+
+[ext_resource type="AudioStream" uid="uid://g5b4fpwtsgm3" path="res://musicas/titulo/reflected-light-147979.mp3" id="1_u2cfy"]
+
+[node name="Musica" type="AudioStreamPlayer2D"]
+stream = ExtResource("1_u2cfy")
+autoplay = true

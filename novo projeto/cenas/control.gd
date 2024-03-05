@@ -16,7 +16,7 @@ func _on_start_bnt_pressed():
 
 
 func _on_option_bnt_pressed():
-	pass # Replace with function body.
+	get_tree().change_scene_to_file("res://cenas/options.tscn")
 
 func _on_quit_bnt_pressed():
 	get_tree().quit()
