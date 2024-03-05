@@ -1,3 +1,7 @@
 res://cenas/mundo.tscn
 res://cenas/control.tscn
 res://cenas/player.tscn
+res://NPC-FLORESTA.gd
+res://bnt_cabeca.tscn
+res://NPC-FLORESTA.tscn
+res://scripts/player.gd

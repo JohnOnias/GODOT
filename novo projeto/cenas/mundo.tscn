@@ -1,4 +1,4 @@
-[gd_scene load_steps=17 format=3 uid="uid://cip7sbtxift3"]
+[gd_scene load_steps=18 format=3 uid="uid://cip7sbtxift3"]
 
 [ext_resource type="Texture2D" uid="uid://yuc0slw8x66k" path="res://art/terreno/Texture/TX Plant.png" id="1_4sjdo"]
 [ext_resource type="Texture2D" uid="uid://60w081lgb2ov" path="res://art/terreno/Texture/TX Props.png" id="2_vqxy1"]
@@ -8,6 +8,7 @@
 [ext_resource type="Texture2D" uid="uid://cq3564kyt1krn" path="res://art/terreno/Texture/TX Tileset Grass.png" id="6_vlsig"]
 [ext_resource type="PackedScene" uid="uid://wykasb3jbb4" path="res://cenas/player.tscn" id="7_hohuf"]
 [ext_resource type="AudioStream" uid="uid://bt6ufsnf3ene6" path="res://musicas/floresta 01/one-more-spring-187902.mp3" id="8_0uhh2"]
+[ext_resource type="PackedScene" uid="uid://btgygm517o2py" path="res://NPC-FLORESTA.tscn" id="9_i0oxm"]
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_rxlm6"]
 
@@ -4583,3 +4584,8 @@ zoom = Vector2(3, 3)
 [node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
 stream = ExtResource("8_0uhh2")
 autoplay = true
+
+[node name="CharacterBody2D" parent="." instance=ExtResource("9_i0oxm")]
+z_index = 1
+position = Vector2(5, 173)
+scale = Vector2(0.5, 0.5)

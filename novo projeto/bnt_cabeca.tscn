@@ -1,0 +1,17 @@
+[gd_scene load_steps=2 format=3 uid="uid://cpqaepkdyugk8"]
+
+[ext_resource type="Texture2D" uid="uid://5arqm7nadfa8" path="res://recursos extras/UI/Buttons/Button_Blue.png" id="1_i5icq"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(2, -5)
+scale = Vector2(0.3, 0.3)
+texture = ExtResource("1_i5icq")
+
+[node name="Label" type="Label" parent="."]
+offset_left = -10.0
+offset_top = -26.6667
+offset_right = 30.0
+offset_bottom = -0.666664
+scale = Vector2(2.06696, 1.4613)
+text = "A"
+metadata/_edit_lock_ = true

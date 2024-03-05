@@ -70,3 +70,12 @@ func play_animation(movement):
 		elif movement == 0: 
 			anime.play("idle_frente");
 		
+
+
+func _on_area_2d_area_entered(area: Area2D):
+	print(area.name, "dentro"); 
+		
+	
+	
+func _on_area_2d_area_exited(area):
+	print(area.name, "fora");
