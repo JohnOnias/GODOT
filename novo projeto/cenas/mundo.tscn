@@ -4572,7 +4572,7 @@ layer_2/tile_data = PackedInt32Array(-65535, 65536, 4, 1, 65536, 5, 65537, 65536
 
 [node name="PLAYER" parent="." instance=ExtResource("7_hohuf")]
 z_index = 2
-position = Vector2(139, 115)
+position = Vector2(203, 158)
 scale = Vector2(1.5, 1.5)
 
 [node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
