@@ -1,306 +1,436 @@
 ea4bc82a6ad023ab7ee23ee620429895
-<<<<<<< HEAD
-::res://::1709595124
-out-0.png::CompressedTexture2D::4481652008578401655::1709595026::1709595026::1::::<><>::
-::res://art/::1709595026
-icon.svg::CompressedTexture2D::5358402640205514174::1709595026::1709595125::1::::<><>::
-::res://art/ICONS/::1709595026
-::res://art/ICONS/Equipment/::1709595026
-Bag.png::CompressedTexture2D::7255701443238518584::1709595026::1709595026::1::::<><>::
-Belt.png::CompressedTexture2D::8348209460484755393::1709595026::1709595026::1::::<><>::
-Helm.png::CompressedTexture2D::384912869956774749::1709595026::1709595026::1::::<><>::
-Iron Armor.png::CompressedTexture2D::568200406490605815::1709595026::1709595026::1::::<><>::
-Iron Boot.png::CompressedTexture2D::1301843616243052448::1709595026::1709595026::1::::<><>::
-Iron Helmet.png::CompressedTexture2D::7803658471701381629::1709595026::1709595026::1::::<><>::
-Leather Armor.png::CompressedTexture2D::602730643976934102::1709595026::1709595026::1::::<><>::
-Leather Boot.png::CompressedTexture2D::8985818436215226184::1709595026::1709595026::1::::<><>::
-Leather Helmet.png::CompressedTexture2D::2525777343289594867::1709595026::1709595026::1::::<><>::
-Wizard Hat.png::CompressedTexture2D::6247702522015152133::1709595026::1709595026::1::::<><>::
-Wooden Armor.png::CompressedTexture2D::2982681813699964176::1709595026::1709595026::1::::<><>::
-::res://art/ICONS/Food/::1709595026
-Apple.png::CompressedTexture2D::3124432833973085992::1709595026::1709595026::1::::<><>::
-Beer.png::CompressedTexture2D::8573477385233014638::1709595026::1709595026::1::::<><>::
-Bread.png::CompressedTexture2D::4191043254739689751::1709595026::1709595026::1::::<><>::
-Cheese.png::CompressedTexture2D::543266896728688520::1709595026::1709595026::1::::<><>::
-Fish Steak.png::CompressedTexture2D::1222228689903441707::1709595026::1709595026::1::::<><>::
-Green Apple.png::CompressedTexture2D::7772177921089687683::1709595026::1709595026::1::::<><>::
-Ham.png::CompressedTexture2D::3869996174417272086::1709595026::1709595026::1::::<><>::
-Meat.png::CompressedTexture2D::9146491322778423604::1709595026::1709595026::1::::<><>::
-Mushroom.png::CompressedTexture2D::7624476093009227234::1709595026::1709595026::1::::<><>::
-Wine 2.png::CompressedTexture2D::3893279453411981209::1709595026::1709595026::1::::<><>::
-Wine.png::CompressedTexture2D::3266322526039836542::1709595026::1709595026::1::::<><>::
-::res://art/ICONS/Material/::1709595026
-Fabric.png::CompressedTexture2D::2395972659564974743::1709595026::1709595026::1::::<><>::
-Leather.png::CompressedTexture2D::1031485299822519970::1709595026::1709595026::1::::<><>::
-Paper.png::CompressedTexture2D::522546134905669708::1709595026::1709595026::1::::<><>::
-Rope.png::CompressedTexture2D::6632224718091438658::1709595026::1709595026::1::::<><>::
-String.png::CompressedTexture2D::8870233753288324326::1709595026::1709595026::1::::<><>::
-Wood Log.png::CompressedTexture2D::7919445396995299877::1709595026::1709595026::1::::<><>::
-Wooden Plank.png::CompressedTexture2D::4313844958336179652::1709595026::1709595026::1::::<><>::
-Wool.png::CompressedTexture2D::7183459110356415124::1709595026::1709595026::1::::<><>::
-::res://art/ICONS/Misc/::1709595026
-Book 2.png::CompressedTexture2D::3370078049966704657::1709595026::1709595026::1::::<><>::
-Book 3.png::CompressedTexture2D::202797458284985987::1709595026::1709595026::1::::<><>::
-Book.png::CompressedTexture2D::6409816299771492099::1709595026::1709595026::1::::<><>::
-Candle.png::CompressedTexture2D::3296495024343186999::1709595026::1709595026::1::::<><>::
-Chest.png::CompressedTexture2D::8804607872902161387::1709595026::1709595026::1::::<><>::
-Copper Coin.png::CompressedTexture2D::2883758723121106881::1709595026::1709595026::1::::<><>::
-Crate.png::CompressedTexture2D::5644933219480590126::1709595026::1709595026::1::::<><>::
-Envolop.png::CompressedTexture2D::4251737513131801771::1709595026::1709595026::1::::<><>::
-Gear.png::CompressedTexture2D::3902274520998993208::1709595026::1709595026::1::::<><>::
-Golden Coin.png::CompressedTexture2D::3653260719153302432::1709595026::1709595026::1::::<><>::
-Golden Key.png::CompressedTexture2D::1741169854234119991::1709595026::1709595026::1::::<><>::
-Heart.png::CompressedTexture2D::3458570150497150756::1709595026::1709595026::1::::<><>::
-Iron Key.png::CompressedTexture2D::4270189387885394875::1709595026::1709595026::1::::<><>::
-Lantern.png::CompressedTexture2D::1415142359707094787::1709595026::1709595026::1::::<><>::
-Map.png::CompressedTexture2D::6344049332152005648::1709595026::1709595026::1::::<><>::
-Rune Stone.png::CompressedTexture2D::3219128041507919543::1709595026::1709595026::1::::<><>::
-Scroll.png::CompressedTexture2D::5261431810376936659::1709595026::1709595026::1::::<><>::
-Silver Coin.png::CompressedTexture2D::7297755881686547367::1709595026::1709595026::1::::<><>::
-Silver Key.png::CompressedTexture2D::805717678702550235::1709595026::1709595026::1::::<><>::
-::res://art/ICONS/Monster Part/::1709595026
-Bone.png::CompressedTexture2D::7428738983387885539::1709595026::1709595026::1::::<><>::
-Egg.png::CompressedTexture2D::8213286441083736687::1709595026::1709595026::1::::<><>::
-Feather.png::CompressedTexture2D::6646217754172655996::1709595026::1709595026::1::::<><>::
-Monster Egg.png::CompressedTexture2D::8728477850426256665::1709595026::1709595026::1::::<><>::
-Monster Eye.png::CompressedTexture2D::7253772706193818652::1709595026::1709595026::1::::<><>::
-Monster Meat.png::CompressedTexture2D::1327719166669671004::1709595026::1709595026::1::::<><>::
-Skull.png::CompressedTexture2D::5540015677277071541::1709595026::1709595026::1::::<><>::
-Slime Gel.png::CompressedTexture2D::2439447657259282261::1709595026::1709595026::1::::<><>::
-::res://art/ICONS/Ore & Gem/::1709595026
-Coal.png::CompressedTexture2D::4019565393950270545::1709595026::1709595026::1::::<><>::
-Copper Ingot.png::CompressedTexture2D::3412847694378363512::1709595026::1709595026::1::::<><>::
-Copper Nugget.png::CompressedTexture2D::3770816068520870390::1709595026::1709595026::1::::<><>::
-Crystal.png::CompressedTexture2D::3969991104609124338::1709595026::1709595026::1::::<><>::
-Cut Emerald.png::CompressedTexture2D::1132082321357238518::1709595026::1709595026::1::::<><>::
-Cut Ruby.png::CompressedTexture2D::2542752252196129661::1709595026::1709595026::1::::<><>::
-Cut Sapphire.png::CompressedTexture2D::3161411479410044714::1709595026::1709595026::1::::<><>::
-Cut Topaz.png::CompressedTexture2D::6738617992039475041::1709595026::1709595026::1::::<><>::
-Diamond.png::CompressedTexture2D::4813931389619469582::1709595026::1709595026::1::::<><>::
-Emerald.png::CompressedTexture2D::686117538856472250::1709595026::1709595026::1::::<><>::
-Gold Nugget.png::CompressedTexture2D::5351775175021652777::1709595026::1709595026::1::::<><>::
-Golden Ingot.png::CompressedTexture2D::7083999657020079355::1709595026::1709595026::1::::<><>::
-Obsidian.png::CompressedTexture2D::2812469523213310730::1709595026::1709595026::1::::<><>::
-Pearl.png::CompressedTexture2D::2636288161647511574::1709595026::1709595026::1::::<><>::
-Ruby.png::CompressedTexture2D::2543858651693471448::1709595026::1709595026::1::::<><>::
-Sapphire.png::CompressedTexture2D::7663614038896940579::1709595026::1709595026::1::::<><>::
-Silver Ingot.png::CompressedTexture2D::2496220179826513083::1709595026::1709595026::1::::<><>::
-Silver Nugget.png::CompressedTexture2D::3891305396719437615::1709595026::1709595026::1::::<><>::
-Topaz.png::CompressedTexture2D::2365579520486383689::1709595026::1709595026::1::::<><>::
-::res://art/ICONS/Potion/::1709595026
-Blue Potion 2.png::CompressedTexture2D::1568664258864214848::1709595026::1709595026::1::::<><>::
-Blue Potion 3.png::CompressedTexture2D::990499263495601422::1709595026::1709595026::1::::<><>::
-Blue Potion.png::CompressedTexture2D::7148213926818923202::1709595026::1709595026::1::::<><>::
-Empty Bottle.png::CompressedTexture2D::754977179945725262::1709595026::1709595026::1::::<><>::
-Green Potion 2.png::CompressedTexture2D::7806392044338555207::1709595026::1709595026::1::::<><>::
-Green Potion 3.png::CompressedTexture2D::7550554794689837519::1709595026::1709595026::1::::<><>::
-Green Potion.png::CompressedTexture2D::508821487539342570::1709595026::1709595026::1::::<><>::
-Red Potion 2.png::CompressedTexture2D::8522081198053242629::1709595026::1709595026::1::::<><>::
-Red Potion 3.png::CompressedTexture2D::289371993919104665::1709595026::1709595026::1::::<><>::
-Red Potion.png::CompressedTexture2D::5433599792842079178::1709595026::1709595026::1::::<><>::
-Water Bottle.png::CompressedTexture2D::3444919271286612534::1709595026::1709595026::1::::<><>::
-::res://art/ICONS/Weapon & Tool/::1709595026
-Arrow.png::CompressedTexture2D::4487820024068048917::1709595026::1709595026::1::::<><>::
-Axe.png::CompressedTexture2D::4760139411598654235::1709595026::1709595026::1::::<><>::
-Bow.png::CompressedTexture2D::20381948074611877::1709595026::1709595026::1::::<><>::
-Emerald Staff.png::CompressedTexture2D::1821490452286174265::1709595026::1709595026::1::::<><>::
-Golden Sword.png::CompressedTexture2D::7137943291255355101::1709595026::1709595026::1::::<><>::
-Hammer.png::CompressedTexture2D::6785434657650859765::1709595026::1709595026::1::::<><>::
-Iron Shield.png::CompressedTexture2D::1748912232786272355::1709595026::1709595026::1::::<><>::
-Iron Sword.png::CompressedTexture2D::875744521947902692::1709595026::1709595026::1::::<><>::
-Knife.png::CompressedTexture2D::3368078589967133559::1709595026::1709595026::1::::<><>::
-Magic Wand.png::CompressedTexture2D::3144364501626766545::1709595026::1709595026::1::::<><>::
-Pickaxe.png::CompressedTexture2D::3624619032169702030::1709595026::1709595026::1::::<><>::
-Ruby Staff.png::CompressedTexture2D::1842537540928545845::1709595026::1709595026::1::::<><>::
-Sapphire Staff.png::CompressedTexture2D::8874783065167624663::1709595026::1709595026::1::::<><>::
-Shovel.png::CompressedTexture2D::3373848706959526341::1709595026::1709595026::1::::<><>::
-Silver Sword.png::CompressedTexture2D::1487246539232530259::1709595026::1709595026::1::::<><>::
-Topaz Staff.png::CompressedTexture2D::7925286082605100936::1709595026::1709595026::1::::<><>::
-Torch.png::CompressedTexture2D::5453237440430490366::1709595026::1709595026::1::::<><>::
-Wooden Shield.png::CompressedTexture2D::7610390268400296221::1709595026::1709595026::1::::<><>::
-Wooden Staff.png::CompressedTexture2D::5748433701167963532::1709595026::1709595026::1::::<><>::
-Wooden Sword.png::CompressedTexture2D::7309634843960587578::1709595026::1709595026::1::::<><>::
-::res://art/personagens/::1709595026
-::res://art/personagens/mobs/::1709595026
-::res://art/personagens/mobs/slime/::1709595026
-slime.png::CompressedTexture2D::2811328319821739798::1709595026::1709595026::1::::<><>::
-::res://art/personagens/player/::1709595026
-player.png::CompressedTexture2D::9084970783730990009::1709595026::1709595026::1::::<><>::
-::res://art/terreno/::1709595026
-::res://art/terreno/muros/::1709595026
-walls.png::CompressedTexture2D::2200399142879651581::1709595026::1709595026::1::::<><>::
-::res://art/terreno/Texture/::1709595026
-TX Plant.png::CompressedTexture2D::1725986844684898540::1709595026::1709595026::1::::<><>::
-TX Player.png::CompressedTexture2D::8477169464953482702::1709595026::1709595026::1::::<><>::
-TX Props.png::CompressedTexture2D::2228845789262331173::1709595026::1709595026::1::::<><>::
-TX Shadow Plant.png::CompressedTexture2D::8608849744723014540::1709595026::1709595026::1::::<><>::
-TX Shadow.png::CompressedTexture2D::1594268244389810172::1709595026::1709595026::1::::<><>::
-TX Struct.png::CompressedTexture2D::781373752783431204::1709595026::1709595026::1::::<><>::
-TX Tileset Grass.png::CompressedTexture2D::5955543851844512631::1709595026::1709595026::1::::<><>::
-TX Tileset Stone Ground.png::CompressedTexture2D::4298592565495517233::1709595026::1709595026::1::::<><>::
-TX Tileset Wall.png::CompressedTexture2D::396147303001455539::1709595026::1709595026::1::::<><>::
-::res://cenas/::1709595026
-control.gd::GDScript::-1::1709595026::0::1::::<>Control<>::
-control.tscn::PackedScene::8184794758653560870::1709595026::0::1::::<><>::res://cenas/control.gd<>uid://b437fh2dp3mn4::::res://out-0.png<>uid://g5b4fpwtsgm3::::res://musicas/titulo/reflected-light-147979.mp3
-mundo.tscn::PackedScene::157861557464433286::1709595026::0::1::::<><>::uid://yuc0slw8x66k::::res://art/terreno/Texture/TX Plant.png<>uid://60w081lgb2ov::::res://art/terreno/Texture/TX Props.png<>uid://duwgq6e2dvhm7::::res://art/terreno/Texture/TX Shadow Plant.png<>uid://wyjmoakjp33m::::res://art/terreno/Texture/TX Shadow.png<>uid://lerd17j5gbk3::::res://art/terreno/Texture/TX Struct.png<>uid://cq3564kyt1krn::::res://art/terreno/Texture/TX Tileset Grass.png<>uid://wykasb3jbb4::::res://cenas/player.tscn<>uid://bt6ufsnf3ene6::::res://musicas/floresta 01/one-more-spring-187902.mp3
-player.tscn::PackedScene::46891404244446443::1709595026::0::1::::<><>::res://scripts/player.gd<>uid://d2o3e2svc4es4::::res://art/personagens/player/player.png
-::res://musicas/::1709595026
-::res://musicas/floresta 01/::1709595026
-one-more-spring-187902.mp3::AudioStreamMP3::3785228657783950107::1709595026::1709595026::1::::<><>::
-::res://musicas/titulo/::1709595026
-reflected-light-147979.mp3::AudioStreamMP3::483177186280497548::1709595026::1709595026::1::::<><>::
-::res://scripts/::1709595026
-player.gd::GDScript::-1::1709595026::0::1::::<>CharacterBody2D<>::
-=======
-::res://::1709597735
-out-0.png::CompressedTexture2D::4481652008578401655::1709597631::1709597631::1::::<><>::
-::res://art/::1709597631
-icon.svg::CompressedTexture2D::5358402640205514174::1709597631::1709597740::1::::<><>::
-::res://art/ICONS/::1709597631
-::res://art/ICONS/Equipment/::1709597631
-Bag.png::CompressedTexture2D::7255701443238518584::1709597631::1709597631::1::::<><>::
-Belt.png::CompressedTexture2D::8348209460484755393::1709597631::1709597631::1::::<><>::
-Helm.png::CompressedTexture2D::384912869956774749::1709597631::1709597631::1::::<><>::
-Iron Armor.png::CompressedTexture2D::568200406490605815::1709597631::1709597631::1::::<><>::
-Iron Boot.png::CompressedTexture2D::1301843616243052448::1709597631::1709597631::1::::<><>::
-Iron Helmet.png::CompressedTexture2D::7803658471701381629::1709597631::1709597631::1::::<><>::
-Leather Armor.png::CompressedTexture2D::602730643976934102::1709597631::1709597631::1::::<><>::
-Leather Boot.png::CompressedTexture2D::8985818436215226184::1709597631::1709597631::1::::<><>::
-Leather Helmet.png::CompressedTexture2D::2525777343289594867::1709597631::1709597631::1::::<><>::
-Wizard Hat.png::CompressedTexture2D::6247702522015152133::1709597631::1709597631::1::::<><>::
-Wooden Armor.png::CompressedTexture2D::2982681813699964176::1709597631::1709597631::1::::<><>::
-::res://art/ICONS/Food/::1709597631
-Apple.png::CompressedTexture2D::3124432833973085992::1709597631::1709597631::1::::<><>::
-Beer.png::CompressedTexture2D::8573477385233014638::1709597631::1709597631::1::::<><>::
-Bread.png::CompressedTexture2D::4191043254739689751::1709597631::1709597631::1::::<><>::
-Cheese.png::CompressedTexture2D::543266896728688520::1709597631::1709597631::1::::<><>::
-Fish Steak.png::CompressedTexture2D::1222228689903441707::1709597631::1709597631::1::::<><>::
-Green Apple.png::CompressedTexture2D::7772177921089687683::1709597631::1709597631::1::::<><>::
-Ham.png::CompressedTexture2D::3869996174417272086::1709597631::1709597631::1::::<><>::
-Meat.png::CompressedTexture2D::9146491322778423604::1709597631::1709597631::1::::<><>::
-Mushroom.png::CompressedTexture2D::7624476093009227234::1709597631::1709597631::1::::<><>::
-Wine 2.png::CompressedTexture2D::3893279453411981209::1709597631::1709597631::1::::<><>::
-Wine.png::CompressedTexture2D::3266322526039836542::1709597631::1709597631::1::::<><>::
-::res://art/ICONS/Material/::1709597631
-Fabric.png::CompressedTexture2D::2395972659564974743::1709597631::1709597631::1::::<><>::
-Leather.png::CompressedTexture2D::1031485299822519970::1709597631::1709597631::1::::<><>::
-Paper.png::CompressedTexture2D::522546134905669708::1709597631::1709597631::1::::<><>::
-Rope.png::CompressedTexture2D::6632224718091438658::1709597631::1709597631::1::::<><>::
-String.png::CompressedTexture2D::8870233753288324326::1709597631::1709597631::1::::<><>::
-Wood Log.png::CompressedTexture2D::7919445396995299877::1709597631::1709597631::1::::<><>::
-Wooden Plank.png::CompressedTexture2D::4313844958336179652::1709597631::1709597631::1::::<><>::
-Wool.png::CompressedTexture2D::7183459110356415124::1709597631::1709597631::1::::<><>::
-::res://art/ICONS/Misc/::1709597631
-Book 2.png::CompressedTexture2D::3370078049966704657::1709597631::1709597631::1::::<><>::
-Book 3.png::CompressedTexture2D::202797458284985987::1709597631::1709597631::1::::<><>::
-Book.png::CompressedTexture2D::6409816299771492099::1709597631::1709597631::1::::<><>::
-Candle.png::CompressedTexture2D::3296495024343186999::1709597631::1709597631::1::::<><>::
-Chest.png::CompressedTexture2D::8804607872902161387::1709597631::1709597631::1::::<><>::
-Copper Coin.png::CompressedTexture2D::2883758723121106881::1709597631::1709597631::1::::<><>::
-Crate.png::CompressedTexture2D::5644933219480590126::1709597631::1709597631::1::::<><>::
-Envolop.png::CompressedTexture2D::4251737513131801771::1709597631::1709597631::1::::<><>::
-Gear.png::CompressedTexture2D::3902274520998993208::1709597631::1709597631::1::::<><>::
-Golden Coin.png::CompressedTexture2D::3653260719153302432::1709597631::1709597631::1::::<><>::
-Golden Key.png::CompressedTexture2D::1741169854234119991::1709597631::1709597631::1::::<><>::
-Heart.png::CompressedTexture2D::3458570150497150756::1709597631::1709597631::1::::<><>::
-Iron Key.png::CompressedTexture2D::4270189387885394875::1709597631::1709597631::1::::<><>::
-Lantern.png::CompressedTexture2D::1415142359707094787::1709597631::1709597631::1::::<><>::
-Map.png::CompressedTexture2D::6344049332152005648::1709597631::1709597631::1::::<><>::
-Rune Stone.png::CompressedTexture2D::3219128041507919543::1709597631::1709597631::1::::<><>::
-Scroll.png::CompressedTexture2D::5261431810376936659::1709597631::1709597631::1::::<><>::
-Silver Coin.png::CompressedTexture2D::7297755881686547367::1709597631::1709597631::1::::<><>::
-Silver Key.png::CompressedTexture2D::805717678702550235::1709597631::1709597631::1::::<><>::
-::res://art/ICONS/Monster Part/::1709597631
-Bone.png::CompressedTexture2D::7428738983387885539::1709597631::1709597631::1::::<><>::
-Egg.png::CompressedTexture2D::8213286441083736687::1709597631::1709597631::1::::<><>::
-Feather.png::CompressedTexture2D::6646217754172655996::1709597631::1709597631::1::::<><>::
-Monster Egg.png::CompressedTexture2D::8728477850426256665::1709597631::1709597631::1::::<><>::
-Monster Eye.png::CompressedTexture2D::7253772706193818652::1709597631::1709597631::1::::<><>::
-Monster Meat.png::CompressedTexture2D::1327719166669671004::1709597631::1709597631::1::::<><>::
-Skull.png::CompressedTexture2D::5540015677277071541::1709597631::1709597631::1::::<><>::
-Slime Gel.png::CompressedTexture2D::2439447657259282261::1709597631::1709597631::1::::<><>::
-::res://art/ICONS/Ore & Gem/::1709597631
-Coal.png::CompressedTexture2D::4019565393950270545::1709597631::1709597631::1::::<><>::
-Copper Ingot.png::CompressedTexture2D::3412847694378363512::1709597631::1709597631::1::::<><>::
-Copper Nugget.png::CompressedTexture2D::3770816068520870390::1709597631::1709597631::1::::<><>::
-Crystal.png::CompressedTexture2D::3969991104609124338::1709597631::1709597631::1::::<><>::
-Cut Emerald.png::CompressedTexture2D::1132082321357238518::1709597631::1709597631::1::::<><>::
-Cut Ruby.png::CompressedTexture2D::2542752252196129661::1709597631::1709597631::1::::<><>::
-Cut Sapphire.png::CompressedTexture2D::3161411479410044714::1709597631::1709597631::1::::<><>::
-Cut Topaz.png::CompressedTexture2D::6738617992039475041::1709597631::1709597631::1::::<><>::
-Diamond.png::CompressedTexture2D::4813931389619469582::1709597631::1709597631::1::::<><>::
-Emerald.png::CompressedTexture2D::686117538856472250::1709597631::1709597631::1::::<><>::
-Gold Nugget.png::CompressedTexture2D::5351775175021652777::1709597631::1709597631::1::::<><>::
-Golden Ingot.png::CompressedTexture2D::7083999657020079355::1709597631::1709597631::1::::<><>::
-Obsidian.png::CompressedTexture2D::2812469523213310730::1709597631::1709597631::1::::<><>::
-Pearl.png::CompressedTexture2D::2636288161647511574::1709597631::1709597631::1::::<><>::
-Ruby.png::CompressedTexture2D::2543858651693471448::1709597631::1709597631::1::::<><>::
-Sapphire.png::CompressedTexture2D::7663614038896940579::1709597631::1709597631::1::::<><>::
-Silver Ingot.png::CompressedTexture2D::2496220179826513083::1709597631::1709597631::1::::<><>::
-Silver Nugget.png::CompressedTexture2D::3891305396719437615::1709597631::1709597631::1::::<><>::
-Topaz.png::CompressedTexture2D::2365579520486383689::1709597631::1709597631::1::::<><>::
-::res://art/ICONS/Potion/::1709597631
-Blue Potion 2.png::CompressedTexture2D::1568664258864214848::1709597631::1709597631::1::::<><>::
-Blue Potion 3.png::CompressedTexture2D::990499263495601422::1709597631::1709597631::1::::<><>::
-Blue Potion.png::CompressedTexture2D::7148213926818923202::1709597631::1709597631::1::::<><>::
-Empty Bottle.png::CompressedTexture2D::754977179945725262::1709597631::1709597631::1::::<><>::
-Green Potion 2.png::CompressedTexture2D::7806392044338555207::1709597631::1709597631::1::::<><>::
-Green Potion 3.png::CompressedTexture2D::7550554794689837519::1709597631::1709597631::1::::<><>::
-Green Potion.png::CompressedTexture2D::508821487539342570::1709597631::1709597631::1::::<><>::
-Red Potion 2.png::CompressedTexture2D::8522081198053242629::1709597631::1709597631::1::::<><>::
-Red Potion 3.png::CompressedTexture2D::289371993919104665::1709597631::1709597631::1::::<><>::
-Red Potion.png::CompressedTexture2D::5433599792842079178::1709597631::1709597631::1::::<><>::
-Water Bottle.png::CompressedTexture2D::3444919271286612534::1709597631::1709597631::1::::<><>::
-::res://art/ICONS/Weapon & Tool/::1709597631
-Arrow.png::CompressedTexture2D::4487820024068048917::1709597631::1709597631::1::::<><>::
-Axe.png::CompressedTexture2D::4760139411598654235::1709597631::1709597631::1::::<><>::
-Bow.png::CompressedTexture2D::20381948074611877::1709597631::1709597631::1::::<><>::
-Emerald Staff.png::CompressedTexture2D::1821490452286174265::1709597631::1709597631::1::::<><>::
-Golden Sword.png::CompressedTexture2D::7137943291255355101::1709597631::1709597631::1::::<><>::
-Hammer.png::CompressedTexture2D::6785434657650859765::1709597631::1709597631::1::::<><>::
-Iron Shield.png::CompressedTexture2D::1748912232786272355::1709597631::1709597631::1::::<><>::
-Iron Sword.png::CompressedTexture2D::875744521947902692::1709597631::1709597631::1::::<><>::
-Knife.png::CompressedTexture2D::3368078589967133559::1709597631::1709597631::1::::<><>::
-Magic Wand.png::CompressedTexture2D::3144364501626766545::1709597631::1709597631::1::::<><>::
-Pickaxe.png::CompressedTexture2D::3624619032169702030::1709597631::1709597631::1::::<><>::
-Ruby Staff.png::CompressedTexture2D::1842537540928545845::1709597631::1709597631::1::::<><>::
-Sapphire Staff.png::CompressedTexture2D::8874783065167624663::1709597631::1709597631::1::::<><>::
-Shovel.png::CompressedTexture2D::3373848706959526341::1709597631::1709597631::1::::<><>::
-Silver Sword.png::CompressedTexture2D::1487246539232530259::1709597631::1709597631::1::::<><>::
-Topaz Staff.png::CompressedTexture2D::7925286082605100936::1709597631::1709597631::1::::<><>::
-Torch.png::CompressedTexture2D::5453237440430490366::1709597631::1709597631::1::::<><>::
-Wooden Shield.png::CompressedTexture2D::7610390268400296221::1709597631::1709597631::1::::<><>::
-Wooden Staff.png::CompressedTexture2D::5748433701167963532::1709597631::1709597631::1::::<><>::
-Wooden Sword.png::CompressedTexture2D::7309634843960587578::1709597631::1709597631::1::::<><>::
-::res://art/personagens/::1709597631
-::res://art/personagens/mobs/::1709597631
-::res://art/personagens/mobs/slime/::1709597631
-slime.png::CompressedTexture2D::2811328319821739798::1709597631::1709597631::1::::<><>::
-::res://art/personagens/player/::1709597631
-player.png::CompressedTexture2D::9084970783730990009::1709597631::1709597631::1::::<><>::
-::res://art/terreno/::1709597631
-::res://art/terreno/muros/::1709597631
-walls.png::CompressedTexture2D::2200399142879651581::1709597631::1709597631::1::::<><>::
-::res://art/terreno/Texture/::1709597631
-TX Plant.png::CompressedTexture2D::1725986844684898540::1709597631::1709597631::1::::<><>::
-TX Player.png::CompressedTexture2D::8477169464953482702::1709597631::1709597631::1::::<><>::
-TX Props.png::CompressedTexture2D::2228845789262331173::1709597631::1709597631::1::::<><>::
-TX Shadow Plant.png::CompressedTexture2D::8608849744723014540::1709597631::1709597631::1::::<><>::
-TX Shadow.png::CompressedTexture2D::1594268244389810172::1709597631::1709597631::1::::<><>::
-TX Struct.png::CompressedTexture2D::781373752783431204::1709597631::1709597631::1::::<><>::
-TX Tileset Grass.png::CompressedTexture2D::5955543851844512631::1709597631::1709597631::1::::<><>::
-TX Tileset Stone Ground.png::CompressedTexture2D::4298592565495517233::1709597631::1709597631::1::::<><>::
-TX Tileset Wall.png::CompressedTexture2D::396147303001455539::1709597631::1709597631::1::::<><>::
-::res://cenas/::1709597683
-control.gd::GDScript::-1::1709597631::0::1::::<>Control<>::
-control.tscn::PackedScene::8184794758653560870::1709597631::0::1::::<><>::res://cenas/control.gd<>uid://b437fh2dp3mn4::::res://out-0.png<>uid://g5b4fpwtsgm3::::res://musicas/titulo/reflected-light-147979.mp3
-mundo.tscn::PackedScene::157861557464433286::1709596928::0::1::::<><>::uid://yuc0slw8x66k::::res://art/terreno/Texture/TX Plant.png<>uid://60w081lgb2ov::::res://art/terreno/Texture/TX Props.png<>uid://duwgq6e2dvhm7::::res://art/terreno/Texture/TX Shadow Plant.png<>uid://wyjmoakjp33m::::res://art/terreno/Texture/TX Shadow.png<>uid://lerd17j5gbk3::::res://art/terreno/Texture/TX Struct.png<>uid://cq3564kyt1krn::::res://art/terreno/Texture/TX Tileset Grass.png<>uid://wykasb3jbb4::::res://cenas/player.tscn<>uid://bt6ufsnf3ene6::::res://musicas/floresta 01/one-more-spring-187902.mp3
-player.tscn::PackedScene::46891404244446443::1709597631::0::1::::<><>::res://scripts/player.gd<>uid://d2o3e2svc4es4::::res://art/personagens/player/player.png
-::res://musicas/::1709597631
-::res://musicas/floresta 01/::1709597631
-one-more-spring-187902.mp3::AudioStreamMP3::3785228657783950107::1709597631::1709597631::1::::<><>::
-::res://musicas/titulo/::1709597631
-reflected-light-147979.mp3::AudioStreamMP3::483177186280497548::1709597631::1709597631::1::::<><>::
-::res://scripts/::1709597631
-player.gd::GDScript::-1::1709597631::0::1::::<>CharacterBody2D<>::
->>>>>>> 926a5b410e7bb2b591a5d64b8bf0107cb3375cb2
+::res://::1709664060
+out-0.png::CompressedTexture2D::4481652008578401655::1709663045::1709663045::1::::<><>::
+::res://art/::1709663044
+icon.svg::CompressedTexture2D::5358402640205514174::1709663044::1709663044::1::::<><>::
+::res://art/ICONS/::1709663044
+::res://art/ICONS/Equipment/::1709663044
+Bag.png::CompressedTexture2D::7255701443238518584::1709663044::1709663044::1::::<><>::
+Belt.png::CompressedTexture2D::8348209460484755393::1709663044::1709663044::1::::<><>::
+Helm.png::CompressedTexture2D::384912869956774749::1709663044::1709663044::1::::<><>::
+Iron Armor.png::CompressedTexture2D::568200406490605815::1709663044::1709663044::1::::<><>::
+Iron Boot.png::CompressedTexture2D::1301843616243052448::1709663044::1709663044::1::::<><>::
+Iron Helmet.png::CompressedTexture2D::7803658471701381629::1709663044::1709663044::1::::<><>::
+Leather Armor.png::CompressedTexture2D::602730643976934102::1709663044::1709663044::1::::<><>::
+Leather Boot.png::CompressedTexture2D::8985818436215226184::1709663044::1709663044::1::::<><>::
+Leather Helmet.png::CompressedTexture2D::2525777343289594867::1709663044::1709663044::1::::<><>::
+Wizard Hat.png::CompressedTexture2D::6247702522015152133::1709663044::1709663044::1::::<><>::
+Wooden Armor.png::CompressedTexture2D::2982681813699964176::1709663044::1709663044::1::::<><>::
+::res://art/ICONS/Food/::1709663044
+Apple.png::CompressedTexture2D::3124432833973085992::1709663044::1709663044::1::::<><>::
+Beer.png::CompressedTexture2D::8573477385233014638::1709663044::1709663044::1::::<><>::
+Bread.png::CompressedTexture2D::4191043254739689751::1709663044::1709663044::1::::<><>::
+Cheese.png::CompressedTexture2D::543266896728688520::1709663044::1709663044::1::::<><>::
+Fish Steak.png::CompressedTexture2D::1222228689903441707::1709663044::1709663044::1::::<><>::
+Green Apple.png::CompressedTexture2D::7772177921089687683::1709663044::1709663044::1::::<><>::
+Ham.png::CompressedTexture2D::3869996174417272086::1709663044::1709663044::1::::<><>::
+Meat.png::CompressedTexture2D::9146491322778423604::1709663044::1709663044::1::::<><>::
+Mushroom.png::CompressedTexture2D::7624476093009227234::1709663044::1709663044::1::::<><>::
+Wine 2.png::CompressedTexture2D::3893279453411981209::1709663044::1709663044::1::::<><>::
+Wine.png::CompressedTexture2D::3266322526039836542::1709663044::1709663044::1::::<><>::
+::res://art/ICONS/Material/::1709663044
+Fabric.png::CompressedTexture2D::2395972659564974743::1709663044::1709663044::1::::<><>::
+Leather.png::CompressedTexture2D::1031485299822519970::1709663044::1709663044::1::::<><>::
+Paper.png::CompressedTexture2D::522546134905669708::1709663044::1709663044::1::::<><>::
+Rope.png::CompressedTexture2D::6632224718091438658::1709663044::1709663044::1::::<><>::
+String.png::CompressedTexture2D::8870233753288324326::1709663044::1709663044::1::::<><>::
+Wood Log.png::CompressedTexture2D::7919445396995299877::1709663044::1709663044::1::::<><>::
+Wooden Plank.png::CompressedTexture2D::4313844958336179652::1709663044::1709663044::1::::<><>::
+Wool.png::CompressedTexture2D::7183459110356415124::1709663044::1709663044::1::::<><>::
+::res://art/ICONS/Misc/::1709663044
+Book 2.png::CompressedTexture2D::3370078049966704657::1709663044::1709663044::1::::<><>::
+Book 3.png::CompressedTexture2D::202797458284985987::1709663044::1709663044::1::::<><>::
+Book.png::CompressedTexture2D::6409816299771492099::1709663044::1709663044::1::::<><>::
+Candle.png::CompressedTexture2D::3296495024343186999::1709663044::1709663044::1::::<><>::
+Chest.png::CompressedTexture2D::8804607872902161387::1709663044::1709663044::1::::<><>::
+Copper Coin.png::CompressedTexture2D::2883758723121106881::1709663044::1709663044::1::::<><>::
+Crate.png::CompressedTexture2D::5644933219480590126::1709663044::1709663044::1::::<><>::
+Envolop.png::CompressedTexture2D::4251737513131801771::1709663044::1709663044::1::::<><>::
+Gear.png::CompressedTexture2D::3902274520998993208::1709663044::1709663044::1::::<><>::
+Golden Coin.png::CompressedTexture2D::3653260719153302432::1709663044::1709663044::1::::<><>::
+Golden Key.png::CompressedTexture2D::1741169854234119991::1709663044::1709663044::1::::<><>::
+Heart.png::CompressedTexture2D::3458570150497150756::1709663044::1709663044::1::::<><>::
+Iron Key.png::CompressedTexture2D::4270189387885394875::1709663044::1709663044::1::::<><>::
+Lantern.png::CompressedTexture2D::1415142359707094787::1709663044::1709663044::1::::<><>::
+Map.png::CompressedTexture2D::6344049332152005648::1709663044::1709663044::1::::<><>::
+Rune Stone.png::CompressedTexture2D::3219128041507919543::1709663044::1709663044::1::::<><>::
+Scroll.png::CompressedTexture2D::5261431810376936659::1709663044::1709663044::1::::<><>::
+Silver Coin.png::CompressedTexture2D::7297755881686547367::1709663044::1709663044::1::::<><>::
+Silver Key.png::CompressedTexture2D::805717678702550235::1709663044::1709663044::1::::<><>::
+::res://art/ICONS/Monster Part/::1709663044
+Bone.png::CompressedTexture2D::7428738983387885539::1709663044::1709663044::1::::<><>::
+Egg.png::CompressedTexture2D::8213286441083736687::1709663044::1709663044::1::::<><>::
+Feather.png::CompressedTexture2D::6646217754172655996::1709663044::1709663044::1::::<><>::
+Monster Egg.png::CompressedTexture2D::8728477850426256665::1709663044::1709663044::1::::<><>::
+Monster Eye.png::CompressedTexture2D::7253772706193818652::1709663044::1709663044::1::::<><>::
+Monster Meat.png::CompressedTexture2D::1327719166669671004::1709663044::1709663044::1::::<><>::
+Skull.png::CompressedTexture2D::5540015677277071541::1709663044::1709663044::1::::<><>::
+Slime Gel.png::CompressedTexture2D::2439447657259282261::1709663044::1709663044::1::::<><>::
+::res://art/ICONS/Ore & Gem/::1709663044
+Coal.png::CompressedTexture2D::4019565393950270545::1709663044::1709663044::1::::<><>::
+Copper Ingot.png::CompressedTexture2D::3412847694378363512::1709663044::1709663044::1::::<><>::
+Copper Nugget.png::CompressedTexture2D::3770816068520870390::1709663044::1709663044::1::::<><>::
+Crystal.png::CompressedTexture2D::3969991104609124338::1709663044::1709663044::1::::<><>::
+Cut Emerald.png::CompressedTexture2D::1132082321357238518::1709663044::1709663044::1::::<><>::
+Cut Ruby.png::CompressedTexture2D::2542752252196129661::1709663044::1709663044::1::::<><>::
+Cut Sapphire.png::CompressedTexture2D::3161411479410044714::1709663044::1709663044::1::::<><>::
+Cut Topaz.png::CompressedTexture2D::6738617992039475041::1709663044::1709663044::1::::<><>::
+Diamond.png::CompressedTexture2D::4813931389619469582::1709663044::1709663044::1::::<><>::
+Emerald.png::CompressedTexture2D::686117538856472250::1709663044::1709663044::1::::<><>::
+Gold Nugget.png::CompressedTexture2D::5351775175021652777::1709663044::1709663044::1::::<><>::
+Golden Ingot.png::CompressedTexture2D::7083999657020079355::1709663044::1709663044::1::::<><>::
+Obsidian.png::CompressedTexture2D::2812469523213310730::1709663044::1709663044::1::::<><>::
+Pearl.png::CompressedTexture2D::2636288161647511574::1709663044::1709663044::1::::<><>::
+Ruby.png::CompressedTexture2D::2543858651693471448::1709663044::1709663044::1::::<><>::
+Sapphire.png::CompressedTexture2D::7663614038896940579::1709663044::1709663044::1::::<><>::
+Silver Ingot.png::CompressedTexture2D::2496220179826513083::1709663044::1709663044::1::::<><>::
+Silver Nugget.png::CompressedTexture2D::3891305396719437615::1709663044::1709663044::1::::<><>::
+Topaz.png::CompressedTexture2D::2365579520486383689::1709663044::1709663044::1::::<><>::
+::res://art/ICONS/Potion/::1709663044
+Blue Potion 2.png::CompressedTexture2D::1568664258864214848::1709663044::1709663044::1::::<><>::
+Blue Potion 3.png::CompressedTexture2D::990499263495601422::1709663044::1709663044::1::::<><>::
+Blue Potion.png::CompressedTexture2D::7148213926818923202::1709663044::1709663044::1::::<><>::
+Empty Bottle.png::CompressedTexture2D::754977179945725262::1709663044::1709663044::1::::<><>::
+Green Potion 2.png::CompressedTexture2D::7806392044338555207::1709663044::1709663044::1::::<><>::
+Green Potion 3.png::CompressedTexture2D::7550554794689837519::1709663044::1709663044::1::::<><>::
+Green Potion.png::CompressedTexture2D::508821487539342570::1709663044::1709663044::1::::<><>::
+Red Potion 2.png::CompressedTexture2D::8522081198053242629::1709663044::1709663044::1::::<><>::
+Red Potion 3.png::CompressedTexture2D::289371993919104665::1709663044::1709663044::1::::<><>::
+Red Potion.png::CompressedTexture2D::5433599792842079178::1709663044::1709663044::1::::<><>::
+Water Bottle.png::CompressedTexture2D::3444919271286612534::1709663044::1709663044::1::::<><>::
+::res://art/ICONS/Weapon & Tool/::1709663044
+Arrow.png::CompressedTexture2D::4487820024068048917::1709663044::1709663044::1::::<><>::
+Axe.png::CompressedTexture2D::4760139411598654235::1709663044::1709663044::1::::<><>::
+Bow.png::CompressedTexture2D::20381948074611877::1709663044::1709663044::1::::<><>::
+Emerald Staff.png::CompressedTexture2D::1821490452286174265::1709663044::1709663044::1::::<><>::
+Golden Sword.png::CompressedTexture2D::7137943291255355101::1709663044::1709663044::1::::<><>::
+Hammer.png::CompressedTexture2D::6785434657650859765::1709663044::1709663044::1::::<><>::
+Iron Shield.png::CompressedTexture2D::1748912232786272355::1709663044::1709663044::1::::<><>::
+Iron Sword.png::CompressedTexture2D::875744521947902692::1709663044::1709663044::1::::<><>::
+Knife.png::CompressedTexture2D::3368078589967133559::1709663044::1709663044::1::::<><>::
+Magic Wand.png::CompressedTexture2D::3144364501626766545::1709663044::1709663044::1::::<><>::
+Pickaxe.png::CompressedTexture2D::3624619032169702030::1709663044::1709663044::1::::<><>::
+Ruby Staff.png::CompressedTexture2D::1842537540928545845::1709663044::1709663044::1::::<><>::
+Sapphire Staff.png::CompressedTexture2D::8874783065167624663::1709663044::1709663044::1::::<><>::
+Shovel.png::CompressedTexture2D::3373848706959526341::1709663044::1709663044::1::::<><>::
+Silver Sword.png::CompressedTexture2D::1487246539232530259::1709663044::1709663044::1::::<><>::
+Topaz Staff.png::CompressedTexture2D::7925286082605100936::1709663044::1709663044::1::::<><>::
+Torch.png::CompressedTexture2D::5453237440430490366::1709663044::1709663044::1::::<><>::
+Wooden Shield.png::CompressedTexture2D::7610390268400296221::1709663044::1709663044::1::::<><>::
+Wooden Staff.png::CompressedTexture2D::5748433701167963532::1709663044::1709663044::1::::<><>::
+Wooden Sword.png::CompressedTexture2D::7309634843960587578::1709663044::1709663044::1::::<><>::
+::res://art/personagens/::1709663044
+::res://art/personagens/mobs/::1709663044
+::res://art/personagens/mobs/slime/::1709663044
+slime.png::CompressedTexture2D::2811328319821739798::1709663044::1709663044::1::::<><>::
+::res://art/personagens/player/::1709663044
+player.png::CompressedTexture2D::9084970783730990009::1709663044::1709663044::1::::<><>::
+::res://art/terreno/::1709663044
+::res://art/terreno/muros/::1709663044
+walls.png::CompressedTexture2D::2200399142879651581::1709663044::1709663044::1::::<><>::
+::res://art/terreno/Texture/::1709663044
+TX Plant.png::CompressedTexture2D::1725986844684898540::1709663044::1709663044::1::::<><>::
+TX Player.png::CompressedTexture2D::8477169464953482702::1709663044::1709663044::1::::<><>::
+TX Props.png::CompressedTexture2D::2228845789262331173::1709663044::1709663044::1::::<><>::
+TX Shadow Plant.png::CompressedTexture2D::8608849744723014540::1709663044::1709663044::1::::<><>::
+TX Shadow.png::CompressedTexture2D::1594268244389810172::1709663044::1709663044::1::::<><>::
+TX Struct.png::CompressedTexture2D::781373752783431204::1709663044::1709663044::1::::<><>::
+TX Tileset Grass.png::CompressedTexture2D::5955543851844512631::1709663044::1709663044::1::::<><>::
+TX Tileset Stone Ground.png::CompressedTexture2D::4298592565495517233::1709663044::1709663044::1::::<><>::
+TX Tileset Wall.png::CompressedTexture2D::396147303001455539::1709663044::1709663044::1::::<><>::
+::res://cenas/::1709663500
+control.gd::GDScript::-1::1709663044::0::1::::<>Control<>::
+control.tscn::PackedScene::8184794758653560870::1709663500::0::1::::<><>::res://cenas/control.gd<>uid://b437fh2dp3mn4::::res://out-0.png<>uid://g5b4fpwtsgm3::::res://musicas/titulo/reflected-light-147979.mp3
+mundo.tscn::PackedScene::157861557464433286::1709663499::0::1::::<><>::uid://yuc0slw8x66k::::res://art/terreno/Texture/TX Plant.png<>uid://60w081lgb2ov::::res://art/terreno/Texture/TX Props.png<>uid://duwgq6e2dvhm7::::res://art/terreno/Texture/TX Shadow Plant.png<>uid://wyjmoakjp33m::::res://art/terreno/Texture/TX Shadow.png<>uid://lerd17j5gbk3::::res://art/terreno/Texture/TX Struct.png<>uid://cq3564kyt1krn::::res://art/terreno/Texture/TX Tileset Grass.png<>uid://wykasb3jbb4::::res://cenas/player.tscn<>uid://bt6ufsnf3ene6::::res://musicas/floresta 01/one-more-spring-187902.mp3
+player.tscn::PackedScene::46891404244446443::1709663500::0::1::::<><>::res://scripts/player.gd<>uid://d2o3e2svc4es4::::res://art/personagens/player/player.png
+::res://interface/::1709663044
+estilo_btn_menu.tres::StyleBoxFlat::4296597460348648459::1709663044::0::1::::<><>::
+::res://musicas/::1709663044
+::res://musicas/floresta 01/::1709663044
+one-more-spring-187902.mp3::AudioStreamMP3::3785228657783950107::1709663044::1709663044::1::::<><>::
+::res://musicas/titulo/::1709663044
+reflected-light-147979.mp3::AudioStreamMP3::483177186280497548::1709663044::1709663044::1::::<><>::
+::res://musicas/trilha_sonora/::1709663115
+another-beautiful-day-185723.mp3::AudioStreamMP3::529588511368323150::1709663044::1709663115::1::::<><>::
+anxious-premonition-149511.mp3::AudioStreamMP3::5579866642449302113::1709663044::1709663115::1::::<><>::
+caminhando na aldeia.mp3::AudioStreamMP3::7825877279506064225::1709663044::1709663115::1::::<><>::
+cottagecore-17463.mp3::AudioStreamMP3::3146640855669602067::1709663044::1709663115::1::::<><>::
+deep-space-149635.mp3::AudioStreamMP3::1564626575718262711::1709663045::1709663115::1::::<><>::
+endless-road-172197.mp3::AudioStreamMP3::2137293975394403150::1709663045::1709663115::1::::<><>::
+estrada_vazia.mp3::AudioStreamMP3::6899867970030484577::1709663045::1709663115::1::::<><>::
+medieval-settlement-171141.mp3::AudioStreamMP3::5147062836830591815::1709663045::1709663115::1::::<><>::
+one-more-spring-187902.mp3::AudioStreamMP3::1355432530132072222::1709663045::1709663115::1::::<><>::
+reminiscence-148011.mp3::AudioStreamMP3::2131401806008185694::1709663045::1709663115::1::::<><>::
+saga-147962.mp3::AudioStreamMP3::4453962885585077701::1709663045::1709663115::1::::<><>::
+touching-infinity-171964.mp3::AudioStreamMP3::1657187649336588560::1709663045::1709663115::1::::<><>::
+::res://musicas/trilha_sonora/ambiente calmo/::1709663115
+ambiente_calmo.mp3::AudioStreamMP3::4573406340075094319::1709663044::1709663115::1::::<><>::
+::res://musicas/trilha_sonora/pantano/::1709663115
+adventure-begins-148729.mp3::AudioStreamMP3::769453905904253668::1709663045::1709663115::1::::<><>::
+::res://recursos extras/::1709664046
+::res://recursos extras/Deco/::1666992850
+01.png::CompressedTexture2D::2230934867175133368::1666996368::1709664066::1::::<><>::
+02.png::CompressedTexture2D::917084357610030459::1666996368::1709664066::1::::<><>::
+03.png::CompressedTexture2D::8962848568280857905::1666996368::1709664066::1::::<><>::
+04.png::CompressedTexture2D::8911938289244688687::1666996368::1709664066::1::::<><>::
+05.png::CompressedTexture2D::7012291545526528873::1666996368::1709664066::1::::<><>::
+06.png::CompressedTexture2D::8081132521923792574::1666996368::1709664066::1::::<><>::
+07.png::CompressedTexture2D::9163958740161416115::1666996368::1709664066::1::::<><>::
+08.png::CompressedTexture2D::6540900602575047107::1666996368::1709664066::1::::<><>::
+09.png::CompressedTexture2D::491512032613710857::1666996368::1709664066::1::::<><>::
+10.png::CompressedTexture2D::7546698308569046770::1666996368::1709664066::1::::<><>::
+11.png::CompressedTexture2D::5988023108889291842::1666996368::1709664066::1::::<><>::
+12.png::CompressedTexture2D::6668255722666678969::1666996368::1709664066::1::::<><>::
+13.png::CompressedTexture2D::5640170309681081379::1666996368::1709664066::1::::<><>::
+14.png::CompressedTexture2D::8200144436922716253::1666996368::1709664066::1::::<><>::
+15.png::CompressedTexture2D::1430359290951237204::1666996368::1709664066::1::::<><>::
+16.png::CompressedTexture2D::6852930487617586343::1666996409::1709664066::1::::<><>::
+17.png::CompressedTexture2D::8821829287983129123::1666996421::1709664066::1::::<><>::
+18.png::CompressedTexture2D::634458249936147631::1666996450::1709664066::1::::<><>::
+::res://recursos extras/Effects/::1667926468
+::res://recursos extras/Effects/Explosion/::1667419618
+Explosions.png::CompressedTexture2D::6218947717300626808::1667423219::1709664066::1::::<><>::
+::res://recursos extras/Effects/Fire/::1667931562
+Fire.png::CompressedTexture2D::6951835957181942079::1667938719::1709664066::1::::<><>::
+::res://recursos extras/Factions/::1667501422
+::res://recursos extras/Factions/Goblins/::1667501596
+::res://recursos extras/Factions/Goblins/Buildings/::1704287724
+::res://recursos extras/Factions/Goblins/Buildings/Wood_House/::1704287730
+Goblin_House.png::CompressedTexture2D::4315524920621685127::1668200173::1709664066::1::::<><>::
+Goblin_House_Destroyed.png::CompressedTexture2D::6939822555895189855::1668200190::1709664066::1::::<><>::
+::res://recursos extras/Factions/Goblins/Buildings/Wood_Tower/::1667931630
+Wood_Tower_Blue.png::CompressedTexture2D::2211876170891033996::1667511505::1709664066::1::::<><>::
+Wood_Tower_Destroyed.png::CompressedTexture2D::634194339628007077::1667933984::1709664066::1::::<><>::
+Wood_Tower_InConstruction.png::CompressedTexture2D::4305134441074257323::1667933964::1709664066::1::::<><>::
+Wood_Tower_Purple.png::CompressedTexture2D::5747247317871727195::1667511548::1709664065::1::::<><>::
+Wood_Tower_Red.png::CompressedTexture2D::4551193705647316829::1667507321::1709664065::1::::<><>::
+Wood_Tower_Yellow.png::CompressedTexture2D::2693821671388965235::1667511454::1709664065::1::::<><>::
+::res://recursos extras/Factions/Goblins/Troops/::1667926432
+::res://recursos extras/Factions/Goblins/Troops/Barrel/::1667507292
+::res://recursos extras/Factions/Goblins/Troops/Barrel/Blue/::1667507608
+Barrel_Blue.png::CompressedTexture2D::516753596856787862::1667511209::1709664066::1::::<><>::
+::res://recursos extras/Factions/Goblins/Troops/Barrel/Purple/::1667507668
+Barrel_Purple.png::CompressedTexture2D::2850552674261939646::1667511270::1709664066::1::::<><>::
+::res://recursos extras/Factions/Goblins/Troops/Barrel/Red/::1667507562
+Barrel_Red.png::CompressedTexture2D::2826096822159106243::1667510970::1709664066::1::::<><>::
+::res://recursos extras/Factions/Goblins/Troops/Barrel/Yellow/::1667507548
+Barrel_Yellow.png::CompressedTexture2D::7616124239210777304::1667511148::1709664066::1::::<><>::
+::res://recursos extras/Factions/Goblins/Troops/TNT/::1667419270
+::res://recursos extras/Factions/Goblins/Troops/TNT/Blue/::1667419568
+TNT_Blue.png::CompressedTexture2D::3781812297629900762::1667423169::1709664066::1::::<><>::
+::res://recursos extras/Factions/Goblins/Troops/TNT/Dynamite/::1667419280
+Dynamite.png::CompressedTexture2D::1810609106851829051::1667422880::1709664065::1::::<><>::
+::res://recursos extras/Factions/Goblins/Troops/TNT/Purple/::1667419512
+TNT_Purple.png::CompressedTexture2D::8122735142284943247::1667423112::1709664066::1::::<><>::
+::res://recursos extras/Factions/Goblins/Troops/TNT/Red/::1667419216
+TNT_Red.png::CompressedTexture2D::5037793600440841168::1667422838::1709664066::1::::<><>::
+::res://recursos extras/Factions/Goblins/Troops/TNT/Yellow/::1667419438
+TNT_Yellow.png::CompressedTexture2D::2728621967925301575::1667423039::1709664066::1::::<><>::
+::res://recursos extras/Factions/Goblins/Troops/Torch/::1667418752
+::res://recursos extras/Factions/Goblins/Troops/Torch/Blue/::1667418976
+Torch_Blue.png::CompressedTexture2D::3079630322993748744::1667422576::1709664066::1::::<><>::
+::res://recursos extras/Factions/Goblins/Troops/Torch/Purple/::1667419106
+Torch_Purple.png::CompressedTexture2D::6533284529101409513::1667422706::1709664066::1::::<><>::
+::res://recursos extras/Factions/Goblins/Troops/Torch/Red/::1667418790
+Torch_Red.png::CompressedTexture2D::1406093818572439653::1667422390::1709664066::1::::<><>::
+::res://recursos extras/Factions/Goblins/Troops/Torch/Yellow/::1667419042
+Torch_Yellow.png::CompressedTexture2D::6373294426361973585::1667422642::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/::1667501404
+::res://recursos extras/Factions/Knights/Buildings/::1667501460
+::res://recursos extras/Factions/Knights/Buildings/Castle/::1659718434
+Castle_Blue.png::CompressedTexture2D::1184361138993573356::1659722688::1709664066::1::::<><>::
+Castle_Construction.png::CompressedTexture2D::7084473899967287792::1659722799::1709664066::1::::<><>::
+Castle_Destroyed.png::CompressedTexture2D::4401857246384968923::1659722820::1709664066::1::::<><>::
+Castle_Purple.png::CompressedTexture2D::454861604585167182::1659722742::1709664066::1::::<><>::
+Castle_Red.png::CompressedTexture2D::7542261029385576210::1659722774::1709664066::1::::<><>::
+Castle_Yellow.png::CompressedTexture2D::5693896862482081235::1659722719::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Buildings/House/::1659718786
+House_Blue.png::CompressedTexture2D::6689931380420039512::1659722332::1709664066::1::::<><>::
+House_Construction.png::CompressedTexture2D::6664150324903535638::1659722442::1709664066::1::::<><>::
+House_Destroyed.png::CompressedTexture2D::5257599761694290003::1659722458::1709664066::1::::<><>::
+House_Purple.png::CompressedTexture2D::7706168759687500207::1659722332::1709664066::1::::<><>::
+House_Red.png::CompressedTexture2D::6690392171536384132::1659722332::1709664066::1::::<><>::
+House_Yellow.png::CompressedTexture2D::4693348636865461581::1659722332::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Buildings/Tower/::1659718430
+Tower_Blue.png::CompressedTexture2D::5889058644595546184::1659722530::1709664066::1::::<><>::
+Tower_Construction.png::CompressedTexture2D::887903351528406596::1659722499::1709664066::1::::<><>::
+Tower_Destroyed.png::CompressedTexture2D::3298971598889146548::1659722516::1709664066::1::::<><>::
+Tower_Purple.png::CompressedTexture2D::2893401411946898598::1659722646::1709664066::1::::<><>::
+Tower_Red.png::CompressedTexture2D::6767237941636625896::1659722611::1709664066::1::::<><>::
+Tower_Yellow.png::CompressedTexture2D::9123473657627334259::1659722628::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Troops/::1667501404
+::res://recursos extras/Factions/Knights/Troops/Archer/::1676370750
+::res://recursos extras/Factions/Knights/Troops/Archer/Archer + Bow/::1676370520
+Archer_Blue_(NoArms).png::CompressedTexture2D::3269560730395263509::1668110611::1709664066::1::::<><>::
+Archer_Bow_Blue.png::CompressedTexture2D::8630361102335797873::1668110734::1709664066::1::::<><>::
+Archer_Bow_Purple.png::CompressedTexture2D::6434109827007376999::1676377934::1709664066::1::::<><>::
+Archer_Bow_Red.png::CompressedTexture2D::3569639421819817985::1676377827::1709664066::1::::<><>::
+Archer_Bow_Yellow.png::CompressedTexture2D::7781326525556049897::1676377897::1709664066::1::::<><>::
+Archer_Purple_(NoArms).png::CompressedTexture2D::2417693482526195974::1676377932::1709664066::1::::<><>::
+Archer_Red_(NoArms).png::CompressedTexture2D::4342904342778433881::1676377805::1709664066::1::::<><>::
+Archer_Yellow_(NoArms).png::CompressedTexture2D::5046239948821725726::1676377896::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Troops/Archer/Arrow/::1663155304
+Arrow.png::CompressedTexture2D::4064113944921020891::1663158893::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Troops/Archer/Blue/::1676369920
+Archer_Blue.png::CompressedTexture2D::4208679527145055601::1663158812::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Troops/Archer/Purple/::1663155362
+Archer_Purlple.png::CompressedTexture2D::4599571704865671592::1663159147::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Troops/Archer/Red/::1663155338
+Archer_Red.png::CompressedTexture2D::3355791932925500478::1663159254::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Troops/Archer/Yellow/::1663155354
+Archer_Yellow.png::CompressedTexture2D::4845121935057919266::1663159318::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Troops/Dead/::1659710316
+Dead.png::CompressedTexture2D::4675906393815738959::1667504586::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Troops/Pawn/::1659704634
+::res://recursos extras/Factions/Knights/Troops/Pawn/Blue/::1661348470
+Pawn_Blue.png::CompressedTexture2D::2696066779544574628::1661351913::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Troops/Pawn/Purple/::1661348466
+Pawn_Purple.png::CompressedTexture2D::6866929640661170006::1661352043::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Troops/Pawn/Red/::1661348486
+Pawn_Red.png::CompressedTexture2D::8981005404313642531::1661352144::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Troops/Pawn/Yellow/::1661348608
+Pawn_Yellow.png::CompressedTexture2D::3018442826197695676::1661352199::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Troops/Warrior/::1659706362
+::res://recursos extras/Factions/Knights/Troops/Warrior/Blue/::1663156006
+Warrior_Blue.png::CompressedTexture2D::3498368912982640969::1663159594::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Troops/Warrior/Purple/::1663155954
+Warrior_Purple.png::CompressedTexture2D::123915070400476383::1663159815::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Troops/Warrior/Red/::1663156018
+Warrior_Red.png::CompressedTexture2D::8170070329254163660::1663159876::1709664066::1::::<><>::
+::res://recursos extras/Factions/Knights/Troops/Warrior/Yellow/::1663155944
+Warrior_Yellow.png::CompressedTexture2D::8454271960139961277::1663159941::1709664066::1::::<><>::
+::res://recursos extras/Resources/::1663158990
+::res://recursos extras/Resources/Gold Mine/::1661176910
+GoldMine_Active.png::CompressedTexture2D::8074011879067218620::1659721393::1709664066::1::::<><>::
+GoldMine_Destroyed.png::CompressedTexture2D::3356882189184686320::1659721393::1709664066::1::::<><>::
+GoldMine_Inactive.png::CompressedTexture2D::8986454913604176857::1659721393::1709664066::1::::<><>::
+::res://recursos extras/Resources/Resources/::1661348204
+G_Idle.png::CompressedTexture2D::4275184400480389301::1661351618::1709664066::1::::<><>::
+G_Idle_(NoShadow).png::CompressedTexture2D::8109496440752406719::1661351759::1709664066::1::::<><>::
+G_Spawn.png::CompressedTexture2D::8798081471962459995::1661351629::1709664066::1::::<><>::
+M_Idle.png::CompressedTexture2D::8325585414777504663::1661351643::1709664066::1::::<><>::
+M_Idle_(NoShadow).png::CompressedTexture2D::6437766508312431702::1661351773::1709664066::1::::<><>::
+M_Spawn.png::CompressedTexture2D::4865721894393396182::1661351652::1709664066::1::::<><>::
+W_Idle.png::CompressedTexture2D::3251201493424406698::1661351585::1709664066::1::::<><>::
+W_Idle_(NoShadow).png::CompressedTexture2D::885812223501893130::1661351727::1709664066::1::::<><>::
+W_Spawn.png::CompressedTexture2D::348526780449239843::1661351602::1709664066::1::::<><>::
+::res://recursos extras/Resources/Sheep/::1659718252
+HappySheep_All.png::CompressedTexture2D::7195480105055668753::1659721776::1709664066::1::::<><>::
+HappySheep_Bouncing.png::CompressedTexture2D::4346646260972521665::1659721853::1709664066::1::::<><>::
+HappySheep_Idle.png::CompressedTexture2D::3871881692116094143::1659721821::1709664066::1::::<><>::
+::res://recursos extras/Resources/Trees/::1663158906
+Tree.png::CompressedTexture2D::1242534004451878256::1659715207::1709664066::1::::<><>::
+::res://recursos extras/Terrain/::1667501460
+::res://recursos extras/Terrain/Bridge/::1659719936
+Bridge_All.png::CompressedTexture2D::8025898158836404472::1659902256::1709664066::1::::<><>::
+::res://recursos extras/Terrain/Ground/::1663158078
+Shadows.png::CompressedTexture2D::686592044459320838::1662484872::1709664066::1::::<><>::
+Tilemap_Elevation.png::CompressedTexture2D::1751128879085797667::1663161376::1709664065::1::::<><>::
+Tilemap_Flat.png::CompressedTexture2D::6446576075501036658::1663161352::1709664065::1::::<><>::
+::res://recursos extras/Terrain/Water/::1663158860
+Water.png::CompressedTexture2D::226447587924242231::1659724634::1709664065::1::::<><>::
+::res://recursos extras/Terrain/Water/Foam/::1662487494
+Foam.png::CompressedTexture2D::7304096319809216924::1662490117::1709664065::1::::<><>::
+::res://recursos extras/Terrain/Water/Rocks/::1662487464
+Rocks_01.png::CompressedTexture2D::4355920088873605148::1659724150::1709664065::1::::<><>::
+Rocks_02.png::CompressedTexture2D::4695966484941380777::1659724161::1709664065::1::::<><>::
+Rocks_03.png::CompressedTexture2D::3013894082088780097::1659724172::1709664065::1::::<><>::
+Rocks_04.png::CompressedTexture2D::7795270670455352121::1659724184::1709664065::1::::<><>::
+::res://recursos extras/UI/::1671758340
+::res://recursos extras/UI/Banners/::1671760292
+Banner_Connection_Down.png::CompressedTexture2D::2916975381410414347::1671766120::1709664065::1::::<><>::
+Banner_Connection_Left.png::CompressedTexture2D::4153181596184814306::1671766094::1709664065::1::::<><>::
+Banner_Connection_Right.png::CompressedTexture2D::6052801634120567082::1671766079::1709664065::1::::<><>::
+Banner_Connection_Up.png::CompressedTexture2D::5830288337854254371::1671766107::1709664065::1::::<><>::
+Banner_Horizontal.png::CompressedTexture2D::2831176445921389825::1671765989::1709664065::1::::<><>::
+Banner_Vertical.png::CompressedTexture2D::245732922403212306::1671766015::1709664065::1::::<><>::
+Carved_3Slides.png::CompressedTexture2D::4318955653901567670::1671766270::1709664065::1::::<><>::
+Carved_9Slides.png::CompressedTexture2D::8068336206236797439::1671766219::1709664065::1::::<><>::
+Carved_Regular.png::CompressedTexture2D::4869935370473326712::1671766293::1709664065::1::::<><>::
+::res://recursos extras/UI/Buttons/::1671809110
+Button_Blue.png::CompressedTexture2D::2106726751025207021::1671767422::1709664065::1::::<><>::
+Button_Blue_3Slides.png::CompressedTexture2D::511455668082697998::1671767311::1709664065::1::::<><>::
+Button_Blue_3Slides_Pressed.png::CompressedTexture2D::4243374738184488271::1671767328::1709664065::1::::<><>::
+Button_Blue_9Slides.png::CompressedTexture2D::4223048099240331377::1671767159::1709664065::1::::<><>::
+Button_Blue_9Slides_Pressed.png::CompressedTexture2D::2682921225004750156::1671767275::1709664065::1::::<><>::
+Button_Blue_Pressed.png::CompressedTexture2D::7971565962040005694::1671767479::1709664065::1::::<><>::
+Button_Disable.png::CompressedTexture2D::7481591194662706888::1671767465::1709664065::1::::<><>::
+Button_Disable_3Slides.png::CompressedTexture2D::8791736230345447240::1671767402::1709664065::1::::<><>::
+Button_Disable_9Slides.png::CompressedTexture2D::7334178716373337144::1671767255::1709664065::1::::<><>::
+Button_Hover.png::CompressedTexture2D::5691241050748269153::1671767452::1709664065::1::::<><>::
+Button_Hover_3Slides.png::CompressedTexture2D::9132040687300103525::1671767385::1709664065::1::::<><>::
+Button_Hover_9Slides.png::CompressedTexture2D::5174968618614762541::1671767213::1709664065::1::::<><>::
+Button_Red.png::CompressedTexture2D::943066440192123022::1671834064::1709664065::1::::<><>::
+Button_Red_3Slides.png::CompressedTexture2D::7596870202000754198::1671834103::1709664065::1::::<><>::
+Button_Red_3Slides_Pressed.png::CompressedTexture2D::6422272742197525695::1671834110::1709664065::1::::<><>::
+Button_Red_9Slides.png::CompressedTexture2D::4731900815117038504::1671834097::1709664065::1::::<><>::
+Button_Red_9Slides_Pressed.png::CompressedTexture2D::2511621675680367751::1671834091::1709664065::1::::<><>::
+Button_Red_Pressed.png::CompressedTexture2D::5084028838197538204::1671834080::1709664065::1::::<><>::
+::res://recursos extras/UI/Icons/::1671760574
+Disable_01.png::CompressedTexture2D::6263854236977080625::1671767569::1709664065::1::::<><>::
+Disable_02.png::CompressedTexture2D::2019671989343969211::1671767569::1709664065::1::::<><>::
+Disable_03.png::CompressedTexture2D::2796479200103860241::1671767569::1709664065::1::::<><>::
+Disable_04.png::CompressedTexture2D::1841182895404964505::1671767569::1709664065::1::::<><>::
+Disable_05.png::CompressedTexture2D::2882649788780023586::1671767569::1709664065::1::::<><>::
+Disable_06.png::CompressedTexture2D::1721674189766006736::1671767569::1709664065::1::::<><>::
+Disable_07.png::CompressedTexture2D::3215065428135421235::1671767569::1709664065::1::::<><>::
+Disable_08.png::CompressedTexture2D::195124080368480237::1671767569::1709664065::1::::<><>::
+Disable_09.png::CompressedTexture2D::7533522052714064735::1671767569::1709664065::1::::<><>::
+Disable_10.png::CompressedTexture2D::6152922609883739582::1671767569::1709664065::1::::<><>::
+Pressed_01.png::CompressedTexture2D::231576549554936224::1671767569::1709664065::1::::<><>::
+Pressed_02.png::CompressedTexture2D::6503094907709425941::1671767569::1709664065::1::::<><>::
+Pressed_03.png::CompressedTexture2D::4768537024801223766::1671767569::1709664065::1::::<><>::
+Pressed_04.png::CompressedTexture2D::1694923054797622795::1671767569::1709664065::1::::<><>::
+Pressed_05.png::CompressedTexture2D::2624909958215223114::1671767569::1709664065::1::::<><>::
+Pressed_06.png::CompressedTexture2D::3669474466886542119::1671767569::1709664065::1::::<><>::
+Pressed_07.png::CompressedTexture2D::5000334188591446235::1671767569::1709664065::1::::<><>::
+Pressed_08.png::CompressedTexture2D::8156971514429601515::1671767569::1709664065::1::::<><>::
+Pressed_09.png::CompressedTexture2D::4431378507719447370::1671767569::1709664065::1::::<><>::
+Pressed_10.png::CompressedTexture2D::62929325053815952::1671767569::1709664065::1::::<><>::
+Regular_01.png::CompressedTexture2D::4102221405770298266::1671767569::1709664065::1::::<><>::
+Regular_02.png::CompressedTexture2D::2296281626323521771::1671767569::1709664065::1::::<><>::
+Regular_03.png::CompressedTexture2D::772361787868842786::1671767569::1709664065::1::::<><>::
+Regular_04.png::CompressedTexture2D::4604598777735241349::1671767569::1709664065::1::::<><>::
+Regular_05.png::CompressedTexture2D::9027981531716868524::1671767569::1709664065::1::::<><>::
+Regular_06.png::CompressedTexture2D::3982841098299160567::1671767569::1709664065::1::::<><>::
+Regular_07.png::CompressedTexture2D::4219927744401774252::1671767569::1709664065::1::::<><>::
+Regular_08.png::CompressedTexture2D::7744402339500060468::1671767569::1709664065::1::::<><>::
+Regular_09.png::CompressedTexture2D::4552065407638661132::1671767569::1709664065::1::::<><>::
+Regular_10.png::CompressedTexture2D::6417390607708894201::1671767569::1709664065::1::::<><>::
+::res://recursos extras/UI/Pointers/::1671760918
+01.png::CompressedTexture2D::1423355932993657456::1671768118::1709664065::1::::<><>::
+02.png::CompressedTexture2D::2915910788763065648::1671768118::1709664065::1::::<><>::
+03.png::CompressedTexture2D::5146058157661943107::1671768118::1709664065::1::::<><>::
+04.png::CompressedTexture2D::6491868584771558329::1671768118::1709664065::1::::<><>::
+05.png::CompressedTexture2D::9201506967272121435::1671768118::1709664065::1::::<><>::
+06.png::CompressedTexture2D::8948006989387470086::1671768118::1709664065::1::::<><>::
+::res://recursos extras/UI/Ribbons/::1671759800
+Ribbon_Blue_3Slides.png::CompressedTexture2D::1829911224217055782::1671766553::1709664065::1::::<><>::
+Ribbon_Blue_Connection_Down.png::CompressedTexture2D::6232659479575309622::1671766738::1709664065::1::::<><>::
+Ribbon_Blue_Connection_Down_Pressed.png::CompressedTexture2D::2210689464844861913::1671766946::1709664065::1::::<><>::
+Ribbon_Blue_Connection_Left.png::CompressedTexture2D::7208237136893046411::1671766695::1709664065::1::::<><>::
+Ribbon_Blue_Connection_Left_Pressed.png::CompressedTexture2D::2301591830736591254::1671766910::1709664065::1::::<><>::
+Ribbon_Blue_Connection_Right.png::CompressedTexture2D::1671814869766704834::1671766646::1709664065::1::::<><>::
+Ribbon_Blue_Connection_Right_Pressed.png::CompressedTexture2D::3397142193988486948::1671766845::1709664065::1::::<><>::
+Ribbon_Blue_Connection_Up.png::CompressedTexture2D::4053214009552019016::1671766777::1709664065::1::::<><>::
+Ribbon_Blue_Connection_Up_Pressed.png::CompressedTexture2D::5166862224332424940::1671766981::1709664065::1::::<><>::
+Ribbon_Red_3Slides.png::CompressedTexture2D::4778205027369962466::1671766569::1709664065::1::::<><>::
+Ribbon_Red_Connection_Down.png::CompressedTexture2D::7861504911544706686::1671766750::1709664065::1::::<><>::
+Ribbon_Red_Connection_Down_Pressed.png::CompressedTexture2D::6796306081209751635::1671766953::1709664065::1::::<><>::
+Ribbon_Red_Connection_Left.png::CompressedTexture2D::3985578391979809334::1671766706::1709664065::1::::<><>::
+Ribbon_Red_Connection_Left_Pressed.png::CompressedTexture2D::3472415381243815616::1671766918::1709664065::1::::<><>::
+Ribbon_Red_Connection_Right.png::CompressedTexture2D::1839599217531694968::1671766667::1709664065::1::::<><>::
+Ribbon_Red_Connection_Right_Pressed.png::CompressedTexture2D::5643011177589272077::1671766862::1709664065::1::::<><>::
+Ribbon_Red_Connection_Up.png::CompressedTexture2D::5864289717357958521::1671766786::1709664065::1::::<><>::
+Ribbon_Red_Connection_Up_Pressed.png::CompressedTexture2D::5428919491803358150::1671766989::1709664065::1::::<><>::
+Ribbon_Yellow_3Slides.png::CompressedTexture2D::6113009105678701037::1671766580::1709664065::1::::<><>::
+Ribbon_Yellow_Connection_Down.png::CompressedTexture2D::8000532471795544958::1671766762::1709664065::1::::<><>::
+Ribbon_Yellow_Connection_Down_Pressed.png::CompressedTexture2D::1824774422313460192::1671766965::1709664065::1::::<><>::
+Ribbon_Yellow_Connection_Left.png::CompressedTexture2D::2877235442917139681::1671766717::1709664065::1::::<><>::
+Ribbon_Yellow_Connection_Left_Pressed.png::CompressedTexture2D::245001376486423390::1671766928::1709664065::1::::<><>::
+Ribbon_Yellow_Connection_Right.png::CompressedTexture2D::7573953404875706730::1671766678::1709664065::1::::<><>::
+Ribbon_Yellow_Connection_Right_Pressed.png::CompressedTexture2D::5443481895996421900::1671766872::1709664065::1::::<><>::
+Ribbon_Yellow_Connection_Up.png::CompressedTexture2D::13184168634443608::1671766797::1709664065::1::::<><>::
+Ribbon_Yellow_Connection_Up_Pressed.png::CompressedTexture2D::7037675763676341756::1671767001::1709664065::1::::<><>::
+::res://scripts/::1709663045
+player.gd::GDScript::-1::1709663045::0::1::::<>CharacterBody2D<>::
