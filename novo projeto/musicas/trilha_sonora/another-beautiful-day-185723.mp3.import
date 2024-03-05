@@ -2,7 +2,11 @@
 
 importer="mp3"
 type="AudioStreamMP3"
+<<<<<<< HEAD
 uid="uid://bxl3pf022576l"
+=======
+uid="uid://hssilxscddec"
+>>>>>>> 27fb4ee3294e45d1dbc2b34479c17e69160f0ce5
 path="res://.godot/imported/another-beautiful-day-185723.mp3-eafe5e51be6f1a2ccf8a324d071854df.mp3str"
 
 [deps]

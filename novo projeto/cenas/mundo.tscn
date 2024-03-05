@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [gd_scene load_steps=16 format=3 uid="uid://cip7sbtxift3"]
+=======
+[gd_scene load_steps=18 format=3 uid="uid://cip7sbtxift3"]
+>>>>>>> 27fb4ee3294e45d1dbc2b34479c17e69160f0ce5
 
 [ext_resource type="Texture2D" uid="uid://yuc0slw8x66k" path="res://art/terreno/Texture/TX Plant.png" id="1_4sjdo"]
 [ext_resource type="Texture2D" uid="uid://60w081lgb2ov" path="res://art/terreno/Texture/TX Props.png" id="2_vqxy1"]
@@ -7,6 +11,11 @@
 [ext_resource type="Texture2D" uid="uid://lerd17j5gbk3" path="res://art/terreno/Texture/TX Struct.png" id="5_lcwmv"]
 [ext_resource type="Texture2D" uid="uid://cq3564kyt1krn" path="res://art/terreno/Texture/TX Tileset Grass.png" id="6_vlsig"]
 [ext_resource type="PackedScene" uid="uid://wykasb3jbb4" path="res://cenas/player.tscn" id="7_hohuf"]
+<<<<<<< HEAD
+=======
+[ext_resource type="AudioStream" uid="uid://bt6ufsnf3ene6" path="res://musicas/floresta 01/one-more-spring-187902.mp3" id="8_0uhh2"]
+[ext_resource type="PackedScene" uid="uid://btgygm517o2py" path="res://NPC-FLORESTA.tscn" id="9_i0oxm"]
+>>>>>>> 27fb4ee3294e45d1dbc2b34479c17e69160f0ce5
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_rxlm6"]
 
@@ -4575,6 +4584,18 @@ position = Vector2(203, 158)
 scale = Vector2(1.5, 1.5)
 
 [node name="Camera2D" type="Camera2D" parent="PLAYER"]
-position = Vector2(-135.333, -105.333)
+position = Vector2(2.66666, 6)
 scale = Vector2(0.666667, 0.666667)
 zoom = Vector2(3, 3)
+<<<<<<< HEAD
+=======
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("8_0uhh2")
+autoplay = true
+
+[node name="CharacterBody2D" parent="." instance=ExtResource("9_i0oxm")]
+z_index = 1
+position = Vector2(5, 173)
+scale = Vector2(0.5, 0.5)
+>>>>>>> 27fb4ee3294e45d1dbc2b34479c17e69160f0ce5

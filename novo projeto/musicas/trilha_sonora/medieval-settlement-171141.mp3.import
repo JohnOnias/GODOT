@@ -2,7 +2,11 @@
 
 importer="mp3"
 type="AudioStreamMP3"
+<<<<<<< HEAD
 uid="uid://clmwu3wqcmftm"
+=======
+uid="uid://cfljmxdsgmq3p"
+>>>>>>> 27fb4ee3294e45d1dbc2b34479c17e69160f0ce5
 path="res://.godot/imported/medieval-settlement-171141.mp3-37e21fd6b7600409cef1487f24b993d4.mp3str"
 
 [deps]

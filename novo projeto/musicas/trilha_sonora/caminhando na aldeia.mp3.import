@@ -2,7 +2,11 @@
 
 importer="mp3"
 type="AudioStreamMP3"
+<<<<<<< HEAD
 uid="uid://dsgp8l0fxlbso"
+=======
+uid="uid://djq6b5cfymmbp"
+>>>>>>> 27fb4ee3294e45d1dbc2b34479c17e69160f0ce5
 path="res://.godot/imported/caminhando na aldeia.mp3-aa1291c83f0b522650a2c9778059902f.mp3str"
 
 [deps]

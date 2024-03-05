@@ -2,7 +2,11 @@
 
 importer="mp3"
 type="AudioStreamMP3"
+<<<<<<< HEAD
 uid="uid://bsv05dx1a5xap"
+=======
+uid="uid://bk3iyky06nuvb"
+>>>>>>> 27fb4ee3294e45d1dbc2b34479c17e69160f0ce5
 path="res://.godot/imported/cottagecore-17463.mp3-c63a946bd488e532224b69ee5f49b3e1.mp3str"
 
 [deps]

@@ -2,7 +2,11 @@
 
 importer="mp3"
 type="AudioStreamMP3"
+<<<<<<< HEAD
 uid="uid://bgjnao6phsbkk"
+=======
+uid="uid://k7y18girnbdc"
+>>>>>>> 27fb4ee3294e45d1dbc2b34479c17e69160f0ce5
 path="res://.godot/imported/adventure-begins-148729.mp3-afa9abc2ede219d4ce3609b06872cd5a.mp3str"
 
 [deps]

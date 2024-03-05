@@ -2,7 +2,11 @@
 
 importer="mp3"
 type="AudioStreamMP3"
+<<<<<<< HEAD
 uid="uid://bk35x422cyb3w"
+=======
+uid="uid://c5kl215oout34"
+>>>>>>> 27fb4ee3294e45d1dbc2b34479c17e69160f0ce5
 path="res://.godot/imported/estrada_vazia.mp3-525d85284a3b74cb1bef8860ccc8153e.mp3str"
 
 [deps]

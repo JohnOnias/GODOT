@@ -2,7 +2,11 @@
 
 importer="mp3"
 type="AudioStreamMP3"
+<<<<<<< HEAD
 uid="uid://dubfvfe6gtqcc"
+=======
+uid="uid://wj6f22g2v5sd"
+>>>>>>> 27fb4ee3294e45d1dbc2b34479c17e69160f0ce5
 path="res://.godot/imported/deep-space-149635.mp3-2ade573902093aa72aab628fe45a13a2.mp3str"
 
 [deps]

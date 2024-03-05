@@ -2,7 +2,11 @@
 
 importer="mp3"
 type="AudioStreamMP3"
+<<<<<<< HEAD
 uid="uid://bx3q5nhsypmg1"
+=======
+uid="uid://b6fnlmm5jvcmx"
+>>>>>>> 27fb4ee3294e45d1dbc2b34479c17e69160f0ce5
 path="res://.godot/imported/ambiente_calmo.mp3-b2f24f77d8e44727adbc189417393381.mp3str"
 
 [deps]
