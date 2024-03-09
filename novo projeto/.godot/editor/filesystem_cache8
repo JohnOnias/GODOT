@@ -141,10 +141,10 @@ TX Struct.png::CompressedTexture2D::781373752783431204::1709931005::1709931840::
 TX Tileset Grass.png::CompressedTexture2D::5955543851844512631::1709931005::1709931839::1::::<><>::
 TX Tileset Stone Ground.png::CompressedTexture2D::4298592565495517233::1709931005::1709931839::1::::<><>::
 TX Tileset Wall.png::CompressedTexture2D::396147303001455539::1709931005::1709931839::1::::<><>::
-::res://cenas/::1709938231
+::res://cenas/::1709942729
 control.gd::GDScript::-1::1709932008::0::1::::<>Control<>::
-control.tscn::PackedScene::8184794758653560870::1709938231::0::1::::<><>::res://cenas/control.gd<>uid://b437fh2dp3mn4::::res://out-0.png
-mundo.tscn::PackedScene::157861557464433286::1709649702::0::1::::<><>::uid://yuc0slw8x66k
+control.tscn::PackedScene::8184794758653560870::1709938825::0::1::::<><>::res://cenas/control.gd<>uid://b437fh2dp3mn4::::res://out-0.png
+mundo.tscn::PackedScene::157861557464433286::1709942728::0::1::::<><>::uid://yuc0slw8x66k::::res://art/terreno/Texture/TX Plant.png<>uid://60w081lgb2ov::::res://art/terreno/Texture/TX Props.png<>uid://duwgq6e2dvhm7::::res://art/terreno/Texture/TX Shadow Plant.png<>uid://wyjmoakjp33m::::res://art/terreno/Texture/TX Shadow.png<>uid://lerd17j5gbk3::::res://art/terreno/Texture/TX Struct.png<>uid://cq3564kyt1krn::::res://art/terreno/Texture/TX Tileset Grass.png<>uid://wykasb3jbb4::::res://cenas/player.tscn<>uid://bt6ufsnf3ene6::::res://musicas/floresta 01/one-more-spring-187902.mp3
 musica.tscn::PackedScene::6429520726489180161::1709931006::0::1::::<><>::uid://g5b4fpwtsgm3
 options.tscn::PackedScene::293273102320866821::1709931006::0::1::::<><>::res://scripts/options.gd<>uid://b437fh2dp3mn4
 player.tscn::PackedScene::46891404244446443::1709931006::0::1::::<><>::res://scripts/player.gd<>uid://d2o3e2svc4es4
@@ -349,7 +349,7 @@ Banner_Connection_Right.png::CompressedTexture2D::6052801634120567082::170993102
 Banner_Connection_Up.png::CompressedTexture2D::5830288337854254371::1709931025::1709931798::1::::<><>::
 Banner_Horizontal.png::CompressedTexture2D::2831176445921389825::1709931025::1709931798::1::::<><>::
 Banner_Vertical.png::CompressedTexture2D::245732922403212306::1709931025::1709931798::1::::<><>::
-Carved_3Slides.png::CompressedTexture2D::4318955653901567670::1709931025::1709931798::1::::<><>::
+Carved_3Slides.png::CompressedTexture2D::4318955653901567670::1709931025::1709943741::1::::<><>::
 Carved_9Slides.png::CompressedTexture2D::8068336206236797439::1709931025::1709931798::1::::<><>::
 Carved_Regular.png::CompressedTexture2D::4869935370473326712::1709931025::1709931797::1::::<><>::
 ::res://recursos extras/UI/Buttons/::1709931810

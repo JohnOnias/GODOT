@@ -1,0 +1,29 @@
+[gd_scene load_steps=2 format=3 uid="uid://nsegqj6i8vwi"]
+
+[ext_resource type="Texture2D" uid="uid://b2setlk0jloo1" path="res://recursos extras/UI/Banners/Carved_3Slides.png" id="1_5k8dw"]
+
+[node name="CanvasLayer" type="CanvasLayer"]
+
+[node name="NinePatchRect" type="NinePatchRect" parent="."]
+offset_left = 284.0
+offset_top = 37.0
+offset_right = 872.0
+offset_bottom = 152.0
+texture = ExtResource("1_5k8dw")
+
+[node name="name" type="RichTextLabel" parent="NinePatchRect"]
+layout_mode = 0
+offset_left = 40.0
+offset_top = 26.0
+offset_right = 137.0
+offset_bottom = 72.0
+text = "Name: "
+tab_size = 10
+
+[node name="chat" type="RichTextLabel" parent="NinePatchRect"]
+layout_mode = 0
+offset_left = 109.0
+offset_top = 29.0
+offset_right = 525.0
+offset_bottom = 90.0
+text = "FALANDO....."
