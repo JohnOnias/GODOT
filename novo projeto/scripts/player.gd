@@ -4,6 +4,20 @@ var direction = "none";
 const SPEED = 100;
 func _ready():
 	$AnimatedSprite2D.play("idle_frente")
+	
+func _process(delta):
+	if Input.is_action_just_pressed("Attack"):
+		if direction == "right":
+			$AnimatedSprite2D.play("atk_lado")
+			$AnimatedSprite2D.flip_h = false
+		elif direction == "left":
+			$AnimatedSprite2D.play("atk_lado")
+			$AnimatedSprite2D.flip_h = true
+		elif direction == "up":
+			$AnimatedSprite2D.play("atk_costas")
+		elif direction == "down":
+			$AnimatedSprite2D.play("atk_frente")
+
 
 func _physics_process(delta):
 	player_moviment(delta)
@@ -32,7 +46,6 @@ func player_moviment(delta):
 		velocity.x = 0;
 		velocity.y = SPEED;
 	else: 
-		play_animation(0); 
 		velocity.x = 0; 
 		velocity.y = 0; 
 	

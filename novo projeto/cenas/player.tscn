@@ -259,7 +259,7 @@ animations = [{
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_v71go")
 }],
-"loop": true,
+"loop": false,
 "name": &"atk_lado",
 "speed": 5.0
 }, {
@@ -428,7 +428,7 @@ shape = SubResource("RectangleShape2D_ruonb")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_mtmcu")
-animation = &"idle_costas"
+animation = &"atk_lado"
 
 [node name="Area2D" type="Area2D" parent="."]
 
