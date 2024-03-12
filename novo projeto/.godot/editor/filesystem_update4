@@ -4,3 +4,7 @@ res://cenas/mundo.tscn
 res://CharacterBody2D.gd
 res://cenas/NPC.tscn
 res://NPC-FLORESTA.gd
+res://cenas/slime_mob.gd
+res://cenas/slime_mob.tscn
+res://cenas/player.tscn
+res://scripts/player.gd

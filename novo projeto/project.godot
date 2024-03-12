@@ -20,6 +20,13 @@ config/icon="res://art/icon.svg"
 Global="*res://scripts/global.gd"
 Musica="*res://cenas/musica.tscn"
 
+[input]
+
+k={
+"deadzone": 0.5,
+"events": []
+}
+
 [rendering]
 
 textures/canvas_textures/default_texture_filter=0
