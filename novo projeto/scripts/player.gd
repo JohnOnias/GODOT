@@ -2,11 +2,13 @@ extends CharacterBody2D
 
 var direction = "none"; 
 const SPEED = 100;
-var Health = 100; 
+@onready var health = 100;
+ 
 func _ready():
 	$AnimatedSprite2D.play("idle_frente")
 	
 func _process(delta):
+	$Control/ProgressBar.value = health
 	if Input.is_action_just_pressed("Attack"):
 		if direction == "right":
 			$AnimatedSprite2D.play("atk_lado")
