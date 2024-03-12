@@ -1,3 +1,6 @@
+res://cenas/dialogos.tscn
 res://cenas/control.tscn
 res://cenas/mundo.tscn
-res://cenas/dialogos.tscn
+res://CharacterBody2D.gd
+res://cenas/NPC.tscn
+res://NPC-FLORESTA.gd

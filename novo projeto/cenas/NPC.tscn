@@ -1,0 +1,100 @@
+[gd_scene load_steps=14 format=3 uid="uid://bb7dn44abyn6x"]
+
+[ext_resource type="Script" path="res://CharacterBody2D.gd" id="1_hh1vh"]
+[ext_resource type="Texture2D" uid="uid://bp3vvimh7aoyb" path="res://recursos extras/Factions/Knights/Troops/Warrior/Blue/Warrior_Blue.png" id="2_0qfbw"]
+[ext_resource type="Texture2D" uid="uid://5arqm7nadfa8" path="res://recursos extras/UI/Buttons/Button_Blue.png" id="3_pebbw"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_yk5ya"]
+size = Vector2(59, 60)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_lkbr3"]
+atlas = ExtResource("2_0qfbw")
+region = Rect2(0, 0, 192, 192)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_rdyj4"]
+atlas = ExtResource("2_0qfbw")
+region = Rect2(192, 0, 192, 192)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_1ax7t"]
+atlas = ExtResource("2_0qfbw")
+region = Rect2(384, 0, 192, 192)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_tv8dr"]
+atlas = ExtResource("2_0qfbw")
+region = Rect2(576, 0, 192, 192)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_i61ro"]
+atlas = ExtResource("2_0qfbw")
+region = Rect2(768, 0, 192, 192)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_44x40"]
+atlas = ExtResource("2_0qfbw")
+region = Rect2(960, 0, 192, 192)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_anr6c"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_lkbr3")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_rdyj4")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_1ax7t")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_tv8dr")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_i61ro")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_44x40")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 5.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_yhm8n"]
+radius = 114.018
+
+[sub_resource type="Theme" id="Theme_uhjhi"]
+
+[node name="CharacterBody2D" type="CharacterBody2D"]
+script = ExtResource("1_hh1vh")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(27.5, 15)
+shape = SubResource("RectangleShape2D_yk5ya")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(26, 12)
+sprite_frames = SubResource("SpriteFrames_anr6c")
+animation = &"idle"
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(24, 13)
+shape = SubResource("CircleShape2D_yhm8n")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+visible = false
+position = Vector2(24, -57)
+scale = Vector2(0.445313, 0.445313)
+texture = ExtResource("3_pebbw")
+
+[node name="Label" type="Label" parent="Sprite2D"]
+offset_left = -4.49123
+offset_top = -24.7017
+offset_right = 44.5088
+offset_bottom = 16.2983
+theme = SubResource("Theme_uhjhi")
+theme_override_colors/font_color = Color(1, 0, 0, 1)
+theme_override_font_sizes/font_size = 25
+text = "I"
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]
+[connection signal="body_exited" from="Area2D" to="." method="_on_area_2d_body_exited"]

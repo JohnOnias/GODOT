@@ -1,4 +1,4 @@
-[gd_scene load_steps=21 format=3 uid="uid://cip7sbtxift3"]
+[gd_scene load_steps=22 format=3 uid="uid://cip7sbtxift3"]
 
 [ext_resource type="Texture2D" uid="uid://yuc0slw8x66k" path="res://art/terreno/Texture/TX Plant.png" id="1_4sjdo"]
 [ext_resource type="Texture2D" uid="uid://60w081lgb2ov" path="res://art/terreno/Texture/TX Props.png" id="2_vqxy1"]
@@ -8,6 +8,7 @@
 [ext_resource type="Texture2D" uid="uid://cq3564kyt1krn" path="res://art/terreno/Texture/TX Tileset Grass.png" id="6_vlsig"]
 [ext_resource type="PackedScene" uid="uid://wykasb3jbb4" path="res://cenas/player.tscn" id="7_hohuf"]
 [ext_resource type="AudioStream" uid="uid://bt6ufsnf3ene6" path="res://musicas/floresta 01/one-more-spring-187902.mp3" id="8_0uhh2"]
+[ext_resource type="PackedScene" uid="uid://bb7dn44abyn6x" path="res://cenas/NPC.tscn" id="9_1t7mq"]
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_rxlm6"]
 
@@ -4590,7 +4591,7 @@ layer_2/tile_data = PackedInt32Array(-65535, 65536, 4, 1, 65536, 5, 65537, 65536
 
 [node name="PLAYER" parent="." instance=ExtResource("7_hohuf")]
 z_index = 2
-position = Vector2(203, 158)
+position = Vector2(220, 159)
 scale = Vector2(1.5, 1.5)
 
 [node name="Camera2D" type="Camera2D" parent="PLAYER"]
@@ -4630,3 +4631,8 @@ metadata/_edit_lock_ = true
 position = Vector2(1001, 306)
 shape = SubResource("RectangleShape2D_xrwkk")
 metadata/_edit_lock_ = true
+
+[node name="CharacterBody2D" parent="." instance=ExtResource("9_1t7mq")]
+z_index = 6
+position = Vector2(111, 143)
+scale = Vector2(0.5, 0.5)
