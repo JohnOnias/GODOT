@@ -1,7 +1,8 @@
-[gd_scene load_steps=57 format=3 uid="uid://wykasb3jbb4"]
+[gd_scene load_steps=58 format=3 uid="uid://wykasb3jbb4"]
 
 [ext_resource type="Script" path="res://scripts/player.gd" id="1_j7kj5"]
 [ext_resource type="Texture2D" uid="uid://d2o3e2svc4es4" path="res://art/personagens/player/player.png" id="1_yd0hd"]
+[ext_resource type="PackedScene" uid="uid://ci1l3berqcxs0" path="res://cenas/BARRA.tscn" id="3_nqd4w"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ruonb"]
 size = Vector2(13, 20)
@@ -435,6 +436,13 @@ animation = &"atk_lado"
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
 position = Vector2(0, 9)
 shape = SubResource("CircleShape2D_lcrcx")
+
+[node name="Control" parent="." instance=ExtResource("3_nqd4w")]
+offset_left = -52.0
+offset_top = 24.0
+offset_right = -52.0
+offset_bottom = 24.0
+scale = Vector2(0.185571, 0.476172)
 
 [connection signal="area_entered" from="Area2D" to="." method="_on_area_2d_area_entered"]
 [connection signal="area_exited" from="Area2D" to="." method="_on_area_2d_area_exited"]

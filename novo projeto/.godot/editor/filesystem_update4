@@ -8,3 +8,6 @@ res://cenas/slime_mob.gd
 res://cenas/slime_mob.tscn
 res://cenas/player.tscn
 res://scripts/player.gd
+res://cenas/new_theme.tres
+res://cenas/BARRA.tscn
+res://cenas/BARRA.gd

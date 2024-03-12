@@ -2,6 +2,7 @@ extends CharacterBody2D
 
 var direction = "none"; 
 const SPEED = 100;
+var Health = 100; 
 func _ready():
 	$AnimatedSprite2D.play("idle_frente")
 	
